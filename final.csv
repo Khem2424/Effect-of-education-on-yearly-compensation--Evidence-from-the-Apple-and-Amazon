@@ -1,0 +1,1422 @@
+company,level,title,totalyearlycompensation,location,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,cityid,Educ,Race,Education,Company,Gender
+Amazon,L6,Software Engineer,310000,"Seattle, WA",15,3,ML / AI,160000,150000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,142000,"Tempe, AZ",0,0,Full Stack,112000,4000,26000,Male,7053,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,189000,"Seattle, WA",2,0,Android,135000,6000,49000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,252000,"Arlington, VA",4,0,Full Stack,160000,82000,10000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Seattle, WA",3,1,Web Development (Front-End),145000,40000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",9,3,API Development (Back-End),144000,56000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Los Angeles, CA",4,3,Full Stack,150000,65000,0,Male,7275,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,146000,"New York, NY",0,0,ML / AI,123000,23000,0,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Austin, TX",1,1,Full Stack,144000,46000,10000,Male,10965,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,251000,"Seattle, WA",5,5,Distributed Systems (Back-End),151000,1.00E+05,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,161000,"Seattle, WA",1,1,Distributed Systems (Back-End),122000,4000,35000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,6,Software Engineer,340000,"Seattle, WA",8,8,Distributed Systems (Back-End),155000,185000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,202000,"Portland, OR",6,4,API Development (Back-End),142000,60000,0,Male,10522,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,112000,"Seattle, WA",0,0,Distributed Systems (Back-End),112000,0,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,188000,"Sunnyvale, CA",0,0,Full Stack,145000,8000,35000,Female,7472,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,230000,"Palo Alto, CA",5,0,Distributed Systems (Back-End),180000,50000,0,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,149000,"Seattle, WA",1,0,Full Stack,112000,33000,4000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",5,5,Full Stack,144000,1.00E+05,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE III,Software Engineer,392000,"New York, NY",21,1,Full Stack,181000,190000,20000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,267000,"Seattle, WA",5,4,Distributed Systems (Back-End),147000,120000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Seattle, WA",3,3,API Development (Back-End),144000,70000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,142000,"Seattle, WA",0,0,Web Development (Front-End),112000,4000,26000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,320000,"Sunnyvale, CA",3,0,Full Stack,180000,60000,80000,Female,7472,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,172000,"Seattle, WA",8,2,Full Stack,145000,22000,5000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,350000,"Palo Alto, CA",3,0,Distributed Systems (Back-End),185000,15000,150000,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",6,0,API Development (Back-End),150000,90000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,256000,"Austin, TX",6,5,Distributed Systems (Back-End),159000,97000,0,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",4,0,Full Stack,155000,50000,35000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",4,1,API Development (Back-End),140000,25000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,189000,"Seattle, WA",4,4,ML / AI,139000,50000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,243000,"Seattle, WA",4,0,API Development (Back-End),148000,10000,88000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,310000,"Seattle, WA",7,7,Full Stack,160000,150000,0,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Seattle, WA",5,0,Distributed Systems (Back-End),160000,12000,53000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",2,0,Full Stack,155000,10000,77000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,2.00E+05,"Sunnyvale, CA",2,0,Firmware engineer,142000,58000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,214000,"Seattle, WA",5,0,Systems Development Engineer,155000,32000,27000,Male,11527,1,Two Or More,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",4,3,ML / AI,160000,27000,53000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,260000,"Seattle, WA",7,7,Distributed Systems (Back-End),152000,108000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Seattle, WA",8,5,Distributed Systems (Back-End),144000,71000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",6,0,Distributed Systems (Back-End),155000,51000,35000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,207000,"Seattle, WA",4,4,API Development (Back-End),145000,62000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,158000,"Palo Alto, CA",1,0,Full Stack,128000,0,30000,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,181000,"Seattle, WA",2,0,Full Stack,129000,31000,20000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,192000,"Palo Alto, CA",0,0,Distributed Systems (Back-End),128000,24000,40000,Female,7351,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,275000,"Seattle, WA",2,0,Distributed Systems (Back-End),150000,10000,115000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L7,Software Engineer,5.00E+05,"San Francisco, CA",11,10,Distributed Systems (Back-End),185000,315000,0,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,58000,NA,7,1,Distributed Systems (Back-End),38000,6000,14000,Male,13147,1,Asian,Master's Degree,1,1
+Amazon,SDE2,Software Engineer,248000,"Palo Alto, CA",3,3,API Development (Back-End),168000,80000,0,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,197000,"San Francisco, CA",5,0,ML / AI,140000,7000,50000,Male,7419,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,254000,"Seattle, WA",3,3,Distributed Systems (Back-End),149000,105000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,199000,"Seattle, WA",3,3,Distributed Systems (Back-End),145000,54000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,189000,"Seattle, WA",3,0,Full Stack,130000,25000,34000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,176000,"Tempe, AZ",0,0,Full Stack,130000,26000,19000,Male,7053,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",1,0,API Development (Back-End),130000,40000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Arlington, VA",3,0,Distributed Systems (Back-End),150000,12000,53000,Male,11342,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,154000,"New York, NY",0,0,ML / AI,123000,5000,26000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,190000,"Seattle, WA",2,0,API Development (Back-End),140000,5000,40000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Seattle, WA",6,0,Distributed Systems (Back-End),158000,0,65000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",5,3,API Development (Back-End),140000,60000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,255000,"Seattle, WA",7,0,Full Stack,135000,40000,80000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",7,0,Full Stack,145000,48000,28000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,190000,"New York, NY",3,0,Full Stack,135000,34000,22000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,204000,"Seattle, WA",8,3,API Development (Back-End),138000,66000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,215000,"Seattle, WA",3,3,Distributed Systems (Back-End),145000,70000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,202000,"Seattle, WA",5,5,Distributed Systems (Back-End),142000,60000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,265000,"Seattle, WA",4,4,AWS,160000,105000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,221000,"Seattle, WA",2,2,Distributed Systems (Back-End),157000,64000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",5,5,Mobile (iOS + Android),140000,80000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,173000,"Seattle, WA",1,0,Full Stack,130000,3000,40000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Arlington, VA",4,1,Full Stack,151000,37000,28000,Female,11342,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,261000,"Seattle, WA",4,0,Web Development (Front-End),160000,60000,41000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,207000,"Seattle, WA",9,4,Distributed Systems (Back-End),143000,64000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,154000,"Seattle, WA",1,0,Data,112000,20000,22000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,Principal SDE,Software Engineer,7.00E+05,"Seattle, WA",20,12,Distributed Systems (Back-End),160000,540000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,164000,"Austin, TX",0,0,API Development (Back-End),116000,12000,36000,Male,10965,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,210000,"Seattle, WA",5,1,Android,145000,65000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,162000,"Sunnyvale, CA",0,0,Full Stack,128000,4000,30000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,169000,"Minneapolis, MN",2,0,API Development (Back-End),125000,16000,28000,Male,9194,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,186000,"Seattle, WA",2,0,API Development (Back-End),130000,15000,40000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,175000,"Seattle, WA",0,0,Full Stack,116000,22000,37000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,246000,"Seattle, WA",7,1,Distributed Systems (Back-End),158000,38000,50000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,380000,"Seattle, WA",8,0,Web Development (Front-End),160000,125000,95000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,789000,"Seattle, WA",15,2,Full Stack,160000,629000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,143000,"Seattle, WA",1,1,ML / AI,108000,4000,31000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,61000,NA,4,4,API Development (Back-End),36000,25000,0,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,253000,"Austin, TX",3,0,ML / AI,150000,78000,25000,Male,10965,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,253000,"Seattle, WA",12,0,Distributed Systems (Back-End),155000,62000,36000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,254000,"Cambridge, MA",2,0,ML / AI,156000,10000,89000,Male,8821,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,280000,"San Francisco, CA",4,0,Full Stack,150000,10000,120000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,227000,"Austin, TX",7,0,Full Stack,152000,45000,30000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",1,1,Distributed Systems (Back-End),112000,20000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,184000,"Seattle, WA",4,0,Full Stack,125000,25000,34000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,191000,"Seattle, WA",8,2,Control Systems,128000,63000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,275000,"Palo Alto, CA",5,0,Distributed Systems (Back-End),170000,10000,95000,Male,7351,1,Two Or More,Master's Degree,1,1
+Amazon,L5,Software Engineer,244000,"Seattle, WA",11,8,Full Stack,158000,86000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,161000,"Seattle, WA",0,0,Full Stack,116000,22000,23000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",6,3,API Development (Back-End),145000,55000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,196000,"San Francisco, CA",1,0,API Development (Back-End),140000,32000,23000,Male,7419,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,182000,"Seattle, WA",6,4,API Development (Back-End),128000,50000,5000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,284000,"Seattle, WA",4,4,Distributed Systems (Back-End),144000,140000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,195000,"Los Angeles, CA",4,0,Data,150000,45000,0,Male,7275,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,318000,"Seattle, WA",7,7,Databases,156000,162000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,263000,"New York, NY",5,0,Distributed Systems (Back-End),172000,51000,40000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,175000,"Seattle, WA",2,1,ML / AI,147000,10000,19000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",2,2,Distributed Systems (Back-End),116000,22000,30000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",3,3,Distributed Systems (Back-End),136000,60000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",3,3,Full Stack,145000,55000,0,Female,11527,1,Hispanic,Master's Degree,1,0
+Amazon,L4,Software Engineer,182000,"Seattle, WA",3,0,Web Development (Front-End),116000,22000,44000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,286000,"Sunnyvale, CA",5,3,Distributed Systems (Back-End),159000,127000,0,Female,7472,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,152000,"Arlington, VA",2,0,Full Stack,112000,4000,36000,Male,11342,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,204000,"Seattle, WA",10,6,API Development (Back-End),140000,60000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,202000,"Seattle, WA",13,5,Full Stack,144000,58000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,217000,"Seattle, WA",10,5,Distributed Systems (Back-End),153000,64000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,257000,"Minneapolis, MN",10,4,Distributed Systems (Back-End),160000,97000,0,Female,9194,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,156000,"New York, NY",1,1,Distributed Systems (Back-End),121000,3000,32000,Female,10182,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,203000,"Palo Alto, CA",1,1,Distributed Systems (Back-End),163000,40000,0,Male,7351,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Bellevue, WA",0,0,Distributed Systems (Back-End),116000,22000,15000,Female,11470,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,157000,"Phoenix, AZ",2,0,Full Stack,116000,4000,37000,Male,7042,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",4,2,Android,136000,44000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,285000,"Seattle, WA",10,7,API Development (Back-End),150000,136000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L3,Software Engineer,181000,"Seattle, WA",4,0,Mobile (iOS + Android),131000,5000,45000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,450000,"Seattle, WA",20,0,Distributed Systems (Back-End),159000,291000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,146000,"Seattle, WA",2,1,Distributed Systems (Back-End),118000,18000,11000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,263000,"Seattle, WA",7,7,Security,155000,108000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE1,Software Engineer,210000,"Sunnyvale, CA",2,0,Distributed Systems (Back-End),150000,60000,0,Male,7472,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,177000,"Cupertino, CA",1,1,Infrastructure,137000,0,40000,Male,7158,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Tempe, AZ",0,0,API Development (Back-End),116000,22000,15000,Male,7053,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,297000,"Seattle, WA",5,3,Cloud,153000,144000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,154000,"Seattle, WA",0,0,Full Stack,116000,6000,30000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,160000,"San Francisco, CA",4,0,Testing (SDET),120000,3000,38000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,3.00E+05,"Sunnyvale, CA",10,4,Distributed Systems (Back-End),160000,140000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,177000,"Seattle, WA",3,0,Full Stack,117000,20000,40000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0,ML / AI,116000,5000,36000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,343000,"Berkeley, CA",6,0,Distributed Systems (Back-End),180000,94000,69000,Male,7099,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,242000,"Seattle, WA",2,0,ML / AI,155000,56000,31000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",1,0,Full Stack,116000,0,37000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE2,Software Engineer,220000,"Boston, MA",8,2,Full Stack,160000,60000,0,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,211000,"Seattle, WA",5,5,Full Stack,146000,66000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,187000,"Sunnyvale, CA",0,0,Mobile (iOS + Android),134000,5000,48000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,227000,"Seattle, WA",5,5,Distributed Systems (Back-End),157000,70000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,280000,"Seattle, WA",12,4,Distributed Systems (Back-End),150000,130000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,223000,"Seattle, WA",5,1,Full Stack,155000,68000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,176000,"Palo Alto, CA",5,1,Full Stack,134000,25000,17000,Male,7351,1,Two Or More,Master's Degree,1,1
+Amazon,L5,Software Engineer,213000,"Seattle, WA",10,2,API Development (Back-End),196000,16000,3000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0,Full Stack,112000,4000,28000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Seattle, WA",16,2,Site Reliability (SRE),150000,5000,60000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,285000,"Seattle, WA",8,4,ML / AI,159000,126000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,2.00E+05,"Seattle, WA",5,3,Distributed Systems (Back-End),144000,56000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,160000,"Seattle, WA",1,0,Full Stack,112000,22000,26000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,185000,"Arlington, VA",7,1,Full Stack,146000,5000,34000,Male,11342,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,158000,"Austin, TX",0,0,API Development (Back-End),116000,0,37000,Male,10965,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0,ML / AI,116000,4000,37000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",0,0,API Development (Back-End),116000,20000,37000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Boston, MA",5,4,Full Stack,149000,52000,0,Male,8816,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,227000,"Phoenix, AZ",6,5,Distributed Systems (Back-End),145000,82000,0,Male,7042,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,165000,"Seattle, WA",3,1,API Development (Back-End),130000,2000,33000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,123000,"Boston, MA",1,1,ML / AI,108000,10000,5000,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,162000,"Seattle, WA",4,1,Full Stack,112000,35000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",1,0,Full Stack,116000,22000,15000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,192000,"New York, NY",0,0,Full Stack,128000,25000,39000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,7.00E+05,"Seattle, WA",15,2,Full Stack,160000,432000,108000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,210000,"Seattle, WA",12,3,Web Development (Front-End),150000,60000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,310000,"Seattle, WA",10,4,Distributed Systems (Back-End),160000,150000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L1,Software Engineer,199000,"Seattle, WA",0,0,Networking,99000,70000,30000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,270000,"New York, NY",20,0,Distributed Systems (Back-End),185000,45000,40000,Male,10182,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0,Full Stack,116000,4000,37000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,282000,"Seattle, WA",3,0,Distributed Systems (Back-End),160000,14000,108000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",3,0,Full Stack,116000,22000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,361000,"New York, NY",9,7,Full Stack,195000,166000,0,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,310000,"Seattle, WA",6,0,ML / AI,160000,94000,56000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,260000,"Cupertino, CA",6,1,API Development (Back-End),175000,50000,35000,Female,7158,1,Asian,Master's Degree,1,0
+Amazon,L6,Software Engineer,345000,"Seattle, WA",8,7,Mobile (iOS + Android),160000,185000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,157000,"Seattle, WA",0,0,Full Stack,116000,4000,37000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",2,1,API Development (Back-End),127000,38000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,237000,"Boston, MA",7,0,Distributed Systems (Back-End),160000,44000,34000,Female,8816,1,Asian,Master's Degree,1,0
+Amazon,L6,Software Engineer,428000,"Sunnyvale, CA",5,5,ML / AI,185000,243000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,357000,"Sunnyvale, CA",12,3,Android Middleware,165000,192000,0,Male,7472,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,158000,"Seattle, WA",0,0,Full Stack,116000,5000,37000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,95000,"Sunnyvale, CA",1,0,Data,95000,0,0,Male,7472,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,190000,"Seattle, WA",4,4,Full Stack,142000,48000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,115000,NA,11,9,Full Stack,80000,35000,0,Male,13147,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,201000,"Seattle, WA",4,4,Distributed Systems (Back-End),149000,50000,2000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,159000,"Seattle, WA",7,2,Distributed Systems (Back-End),125000,2000,27000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,253000,"San Francisco, CA",3,3,Full Stack,162000,75000,16000,Female,7419,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,170000,"Seattle, WA",2,2,API Development (Back-End),128000,42000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"San Diego, CA",3,1,Full Stack,135000,3000,27000,Male,7416,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,176000,"San Francisco, CA",0,0,iOS,134000,25000,17000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,l3,Software Engineer,136000,"Boston, MA",0,0,Distributed Systems (Back-End),116000,20000,0,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,245000,"Seattle, WA",2,0,Distributed Systems (Back-End),158000,9000,78000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,135000,"Seattle, WA",0,0,Distributed Systems (Back-End),128000,7000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",6,1,DevOps,140000,52000,43000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"San Luis Obispo, CA",4,4,DevOps,126000,74000,0,Male,7425,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,132000,"Seattle, WA",1,1,Distributed Systems (Back-End),108000,18000,11000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Irvine, CA",3,3,Production,144000,72000,0,Male,7229,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,162000,"Seattle, WA",2,1,Distributed Systems (Back-End),125000,5000,32000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,166000,"Seattle, WA",0,0,API Development (Back-End),116000,20000,30000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,SDE I,Software Engineer,160000,"Irvine, CA",1,1,Full Stack,115000,30000,15000,Male,7229,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",0,0,Security,112000,20000,33000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,164000,"Seattle, WA",5,0,Full Stack,112000,27000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L3,Software Engineer,172000,"Seattle, WA",2,0,Full Stack,140000,20000,12000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,241000,"Palo Alto, CA",3,3,ML / AI,163000,72000,6000,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Santa Barbara, CA",1,0,Data,123000,3000,34000,Male,7433,0,Asian,Bachelor's Degree,1,1
+Amazon,L3,Software Engineer,170000,"Seattle, WA",1,0,API Development (Back-End),130000,6000,36000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,207000,"Seattle, WA",6,2,Distributed Systems (Back-End),147000,60000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,247000,"New York, NY",4,0,API Development (Back-End),165000,50000,33000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,218000,"Seattle, WA",3,0,Full Stack,152000,38000,29000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,171000,"Seattle, WA",4,1,Web Development (Front-End),123000,48000,0,Female,11527,1,White,Master's Degree,1,0
+Amazon,L4,Software Engineer,180000,"Seattle, WA",4,0,Distributed Systems (Back-End),138000,20000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,172000,"New York, NY",0,0,API Development (Back-End),128000,24000,20000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,148000,"Herndon, VA",1,1,AWS,108000,20000,20000,Female,11385,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,207000,"Seattle, WA",5,5,Full Stack,144000,63000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,305000,"Sunnyvale, CA",8,0,Full Stack,175000,15000,118000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,214000,"Seattle, WA",3,3,API Development (Back-End),144000,70000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",1,0,ML / AI,134000,22000,17000,Male,11527,1,Two Or More,Master's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Seattle, WA",3,3,Full Stack,143000,73000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,163000,"Sunnyvale, CA",0,0,Networking,128000,5000,30000,Male,7472,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,147000,"Seattle, WA",0,0,Full Stack,116000,4000,27000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,415000,"Seattle, WA",36,15,Distributed Systems (Back-End),160000,255000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Arlington, VA",2,0,Full Stack,150000,5000,47000,Male,11342,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,212000,"Austin, TX",5,4,Distributed Systems (Back-End),145000,67000,0,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,268000,"San Francisco, CA",4,4,Distributed Systems (Back-End),172000,96000,0,Female,7419,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,252000,"Seattle, WA",3,0,API Development (Back-End),152000,10000,90000,Female,11527,1,White,Master's Degree,1,0
+Amazon,L4,Software Engineer,129000,"Seattle, WA",1,1,API Development (Back-End),116000,3000,13000,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,161000,"Herndon, VA",0,0,Distributed Systems (Back-End),130000,4000,27000,Female,11385,1,Asian,Master's Degree,1,0
+Amazon,SDE I,Software Engineer,153000,"Seattle, WA",1,0,API Development (Back-End),116000,23000,15000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,135000,"Seattle, WA",5,5,DevOps,120000,15000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,208000,"Portland, OR",3,1,Full Stack,150000,13000,45000,Male,10522,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,283000,"Seattle, WA",4,4,Distributed Systems (Back-End),150000,132000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,199000,"Seattle, WA",9,7,Distributed Systems (Back-End),140000,60000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,182000,"Seattle, WA",5,2,ML / AI,152000,18000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,192000,"New York, NY",3,1,Site Reliability (SRE),154000,38000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,181000,"Seattle, WA",1,0,API Development (Back-End),130000,47000,4000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,275000,"Denver, CO",6,0,Distributed Systems (Back-End),155000,66000,54000,Female,7548,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,144000,"Sunnyvale, CA",2,2,Full Stack,128000,17000,0,Female,7472,0,Asian,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,280000,"Los Angeles, CA",20,4,Graphics,160000,120000,0,Female,7275,1,Asian,Master's Degree,1,0
+Amazon,L6,Software Engineer,446000,"San Francisco, CA",6,5,ML / AI,185000,261000,0,Male,7419,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,230000,"Seattle, WA",10,1,Distributed Systems (Back-End),160000,70000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,234000,"Seattle, WA",3,3,Distributed Systems (Back-End),146000,88000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,166000,"Tempe, AZ",2,0,Distributed Systems (Back-End),116000,20000,30000,Male,7053,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,204000,"San Francisco, CA",3,0,Data,150000,7000,47000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",5,5,Distributed Systems (Back-End),145000,55000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",0,0,API Development (Back-End),140000,24000,17000,Male,11527,1,White,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,158000,"Seattle, WA",0,0,Full Stack,117000,6000,35000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,270000,"Seattle, WA",3,3,Distributed Systems (Back-End),150000,64000,55000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,220000,"Seattle, WA",10,10,Distributed Systems (Back-End),145000,75000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",9,4,Distributed Systems (Back-End),148000,50000,2000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Seattle, WA",0,0,Full Stack,116000,22000,25000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,148000,"Seattle, WA",1,1,Distributed Systems (Back-End),110000,38000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Austin, TX",2,2,Full Stack,144000,76000,0,Male,10965,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,156000,"Seattle, WA",2,2,API Development (Back-End),116000,20000,20000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,SDE I,Software Engineer,153000,"Seattle, WA",3,0,Full Stack,116000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,210000,"Seattle, WA",3,0,API Development (Back-End),130000,36000,44000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,156000,"Seattle, WA",1,0,DevOps,112000,20000,24000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,277000,"Sunnyvale, CA",14,3,ML / AI,177000,15000,85000,Female,7472,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,189000,"Seattle, WA",3,2,API Development (Back-End),145000,24000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Seattle, WA",1,0,Distributed Systems (Back-End),116000,22000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Seattle, WA",2,0,Full Stack,130000,15000,15000,Female,11527,1,White,Master's Degree,1,0
+Amazon,L5,Software Engineer,231000,"Seattle, WA",7,7,Full Stack,141000,90000,0,Female,11527,1,White,Master's Degree,1,0
+Amazon,L5,Software Engineer,220000,"Seattle, WA",3,3,Distributed Systems (Back-End),144000,76000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,147000,"Seattle, WA",0,0,Full Stack,112000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",8,1,API Development (Back-End),160000,80000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",6,4,Distributed Systems (Back-End),151000,59000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",1,0,Full Stack,132000,5000,28000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",5,2,ML / AI,144000,33000,23000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,254000,"Seattle, WA",7,7,Distributed Systems (Back-End),144000,110000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,143000,"Herndon, VA",1,1,AWS,108000,15000,20000,Female,11385,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE II,Software Engineer,195000,"Seattle, WA",3,3,Production,144000,51000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",2,1,Full Stack,129000,30000,14000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,179000,"Austin, TX",2,1,Web Development (Front-End),120000,40000,19000,Female,10965,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,138000,"Seattle, WA",0,0,Full Stack,116000,22000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,174000,"Charlotte, NC",2,0,Full Stack,140000,18000,17000,Male,9594,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,212000,"Boston, MA",2,2,Distributed Systems (Back-End),152000,48000,12000,Female,8816,0,White,Bachelor's Degree,1,0
+Amazon,SDE II,Software Engineer,230000,"Denver, CO",12,1,Distributed Systems (Back-End),150000,51000,30000,Female,7548,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,185000,"Seattle, WA",4,4,API Development (Back-End),145000,32000,8000,Female,11527,1,White,Master's Degree,1,0
+Amazon,L5,Software Engineer,334000,"Palo Alto, CA",8,0,Distributed Systems (Back-End),185000,81000,68000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,235000,"Seattle, WA",19,3,Distributed Systems (Back-End),144000,91000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,156000,"Seattle, WA",0,0,API Development (Back-End),117000,22000,18000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Seattle, WA",1,1,API Development (Back-End),120000,29000,11000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",8,3,Distributed Systems (Back-End),160000,72000,3000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,166000,"Seattle, WA",0,0,Distributed Systems (Back-End),129000,20000,17000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,154000,"Tempe, AZ",2,0,Distributed Systems (Back-End),116000,23000,15000,Male,7053,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,192000,"Seattle, WA",12,2,Distributed Systems (Back-End),142000,50000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,231000,"Seattle, WA",14,0,Distributed Systems (Back-End),150000,44000,37000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,350000,"Santa Clara, CA",5,5,ML / AI,180000,120000,50000,Female,7434,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,257000,"Sunnyvale, CA",3,1,Distributed Systems (Back-End),170000,53000,34000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,126000,"Seattle, WA",0,0,API Development (Back-End),108000,18000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,138000,"Herndon, VA",1,1,Distributed Systems (Back-End),91000,36000,11000,Male,11385,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,142000,"Minneapolis, MN",4,1,Full Stack,113000,25000,5000,Male,9194,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,145000,"Seattle, WA",0,0,Distributed Systems (Back-End),110000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,399000,"Bellevue, WA",30,0,API Development (Back-End),153000,157000,89000,Male,11470,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,186000,"Sunnyvale, CA",2,1,Testing (SDET),140000,32000,14000,Male,7472,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,198000,"Sunnyvale, CA",7,1,API Development (Back-End),150000,24000,24000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,158000,"Herndon, VA",3,2,AWS,116000,25000,17000,Male,11385,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,174000,"Seattle, WA",5,1,Distributed Systems (Back-End),145000,4000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,165000,"New York, NY",0,0,None Yet,128000,24000,13000,Male,10182,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,147000,"Seattle, WA",3,0,Distributed Systems (Back-End),112000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,178000,"Herndon, VA",2,1,Security,140000,23000,15000,Male,11385,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Seattle, WA",6,6,Distributed Systems (Back-End),160000,50000,5000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,330000,"Seattle, WA",13,5,Distributed Systems (Back-End),158000,172000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Seattle, WA",1,1,Distributed Systems (Back-End),112000,25000,15000,Male,11527,1,Hispanic,Master's Degree,1,1
+Amazon,L6,Software Engineer,334000,"Seattle, WA",12,6,Distributed Systems (Back-End),162000,172000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,193000,"Seattle, WA",3,3,Full Stack,145000,40000,8000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Seattle, WA",5,0,Data,140000,10000,10000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",3,0,Other,140000,30000,30000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,395000,"Seattle, WA",13,8,Distributed Systems (Back-End),157000,238000,0,Male,11527,1,Hispanic,Master's Degree,1,1
+Amazon,L6,Software Engineer,380000,"Seattle, WA",11,8,Distributed Systems (Back-End),150000,230000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,585000,"San Francisco, CA",25,4,Distributed Systems (Back-End),185000,4.00E+05,0,Male,7419,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,149000,"Seattle, WA",3,3,Distributed Systems (Back-End),114000,18000,17000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,325000,"Palo Alto, CA",4,1,Full Stack,180000,120000,25000,Female,7351,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,220000,"Austin, TX",8,1,API Development (Back-End),150000,12000,58000,Male,10965,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Seattle, WA",3,0,Distributed Systems (Back-End),125000,30000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L3,Software Engineer,417000,"Seattle, WA",15,1,Networking,160000,138000,119000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,242000,"Seattle, WA",3,3,Distributed Systems (Back-End),146000,96000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,184000,"Seattle, WA",3,3,Web Development (Front-End),134000,54000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",3,3,Distributed Systems (Back-End),145000,75000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,214000,"Minneapolis, MN",3,2,Distributed Systems (Back-End),144000,50000,20000,Male,9194,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,175000,"Seattle, WA",4,1,Mobile (iOS + Android),140000,35000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,140000,"Sunnyvale, CA",1,0,Data,110000,20000,10000,Male,7472,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,229000,"Seattle, WA",1,1,Distributed Systems (Back-End),144000,58000,26000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,l2,Software Engineer,227000,"Seattle, WA",8,2,Full Stack,156000,71000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,172000,"Seattle, WA",3,0,Android,130000,25000,18000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,104000,"Seattle, WA",0,0,Production,94000,0,10000,Female,11527,0,Hispanic,Bachelor's Degree,1,0
+Amazon,L3,Software Engineer,185000,"Seattle, WA",4,4,ML / AI,135000,30000,20000,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,155000,"San Diego, CA",6,2,API Development (Back-End),125000,30000,0,Male,7416,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,415000,"New York, NY",15,1,Distributed Systems (Back-End),178000,222000,15000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Santa Barbara, CA",8,2,Full Stack,115000,35000,0,Male,7433,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,206000,"Seattle, WA",2,2,Web Development (Front-End),144000,62000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,790000,"Seattle, WA",13,13,Distributed Systems (Back-End),160000,630000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,180000,"San Diego, CA",3,0,Full Stack,130000,5000,45000,Male,7416,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,180000,"Seattle, WA",4,4,Full Stack,120000,50000,10000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,SDE II,Software Engineer,190000,"Seattle, WA",3,3,API Development (Back-End),144000,50000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,222000,"San Francisco, CA",2,2,Full Stack,167000,43000,13000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,259000,"Seattle, WA",5,1,Distributed Systems (Back-End),160000,99000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,160000,"Seattle, WA",3,1,DevOps,124000,35000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,265000,"Seattle, WA",6,1,Full Stack,158000,107000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,199000,"Portland, OR",5,2,Web Development (Front-End),144000,55000,0,Male,10522,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,239000,"Santa Monica, CA",7,0,Full Stack,155000,53000,31000,Female,7438,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,210000,"Seattle, WA",3,3,Distributed Systems (Back-End),144000,65000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,320000,"Seattle, WA",8,7,Distributed Systems (Back-End),160000,160000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,145000,"Seattle, WA",1,1,Full Stack,110000,18000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Seattle, WA",5,0,DevOps,116000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,175000,"Seattle, WA",2,0,ML / AI,130000,25000,20000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,230000,"Seattle, WA",6,5,API Development (Back-End),150000,80000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,127000,"New York, NY",5,0,Data,102000,25000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,224000,"Seattle, WA",7,5,Distributed Systems (Back-End),141000,83000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"San Diego, CA",6,3,Data,153000,57000,0,Male,7416,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,175000,"Seattle, WA",0,0,API Development (Back-End),130000,25000,18000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,188000,"Palo Alto, CA",0,0,Full Stack,134000,25000,29000,Female,7351,0,White,Bachelor's Degree,1,0
+Amazon,L1,Software Engineer,149000,"Nashville, TN",0,0,Distributed Systems (Back-End),112000,5000,32000,Male,10919,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,177000,"San Francisco, CA",0,0,Full Stack,134000,25000,18000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,223000,"Seattle, WA",8,0,Full Stack,150000,43000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,254000,"Seattle, WA",15,5,Testing (SDET),150000,1.00E+05,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,53000,NA,1,1,API Development (Back-End),41000,12000,0,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,244000,"Seattle, WA",4,4,Distributed Systems (Back-End),140000,104000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,45000,NA,6,1,Distributed Systems (Back-End),36000,9000,0,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,167000,"Seattle, WA",10,10,Testing (SDET),150000,17000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,363000,"Arlington, VA",10,0,Site Reliability (SRE),160000,98000,105000,Male,11342,1,Black,Master's Degree,1,1
+Amazon,L5,Software Engineer,202000,"Seattle, WA",5,4,Distributed Systems (Back-End),134000,68000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,391000,"Seattle, WA",20,0,Full Stack,160000,130000,101000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE Newgrad,Software Engineer,146000,"Seattle, WA",0,0,Networking,108000,18000,20000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L6,Software Engineer,3.00E+05,"Seattle, WA",7,7,Data,160000,140000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,159000,"Nashville, TN",0,0,Full Stack,125000,20000,14000,Male,10919,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,164000,"Boston, MA",2,0,ML / AI,116000,21000,27000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,195000,"Seattle, WA",6,0,Mobile (iOS + Android),147000,26000,22000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,220000,"Austin, TX",15,4,Distributed Systems (Back-End),150000,70000,0,Male,10965,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",8,3,Full Stack,144000,78000,18000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",3,0,API Development (Back-End),135000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,265000,"New York, NY",5,0,Full Stack,175000,50000,40000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L3,Software Engineer,190000,"New York, NY",3,0,Full Stack,135000,30000,22000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Herndon, VA",2,0,API Development (Back-End),150000,49000,41000,Male,11385,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,177000,"Seattle, WA",3,0,Distributed Systems (Back-End),145000,21000,11000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Austin, TX",0,0,Distributed Systems (Back-End),118000,30000,25000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",5,0,Web Development (Front-End),140000,6000,64000,Female,11527,0,Hispanic,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,359000,"Seattle, WA",18,7,Distributed Systems (Back-End),159000,2.00E+05,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,255000,"Seattle, WA",3,0,Web Development (Front-End),160000,50000,45000,Male,11527,1,Hispanic,Master's Degree,1,1
+Amazon,L4,Software Engineer,166000,"New York, NY",0,0,API Development (Back-End),128000,24000,14000,Female,10182,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0,Full Stack,112000,20000,12000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,246000,"Seattle, WA",2,0,Distributed Systems (Back-End),155000,49000,43000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,240000,"Arlington, VA",8,0,Mobile (iOS + Android),155000,45000,40000,Male,11342,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,168000,"New York, NY",0,0,API Development (Back-End),128000,24000,16000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,226000,"Seattle, WA",8,0,Data,150000,30000,46000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,198000,"Seattle, WA",3,3,Distributed Systems (Back-End),144000,54000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Athens, GA",0,0,Networking,116000,22000,12000,Male,7838,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,13000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",3,1,API Development (Back-End),135000,25000,12000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,181000,"Seattle, WA",2,0,Distributed Systems (Back-End),135000,22000,19000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,223000,"Seattle, WA",8,0,Full Stack,150000,43000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,181000,"Philadelphia, PA",5,2,Data,150000,20000,11000,Male,10646,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,167000,"Seattle, WA",3,2,Web Development (Front-End),120000,32000,15000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,173000,"Seattle, WA",2,2,Distributed Systems (Back-End),144000,18000,11000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",12,7,Distributed Systems (Back-End),140000,80000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0,Full Stack,112000,20000,12000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,170000,"Seattle, WA",15,2,Full Stack,130000,26000,14000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,193000,"Boston, MA",0,0,ML / AI,145000,25000,23000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,161000,"Seattle, WA",2,2,Distributed Systems (Back-End),110000,35000,16000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Seattle, WA",3,0,Web Development (Front-End),130000,0,30000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",2,0,Full Stack,116000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,l4,Software Engineer,152000,"Seattle, WA",2,0,Full Stack,116000,22000,15000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",6,6,Production,140000,80000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,238000,"Seattle, WA",3,0,Web Development (Front-End),160000,44000,34000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,233000,"New York, NY",5,0,Web Development (Front-End),160000,45000,28000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,187000,"Seattle, WA",8,4,API Development (Back-End),144000,43000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",3,0,Full Stack,116000,22000,27000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,282000,"Seattle, WA",8,5,Full Stack,147000,135000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"New York, NY",0,0,Full Stack,128000,24000,14000,Female,10182,0,Asian,Bachelor's Degree,1,0
+Amazon,L3,Software Engineer,169000,"Portland, OR",2,0,Data,139000,20000,12000,Male,10522,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,260000,"Santa Monica, CA",6,6,Full Stack,160000,1.00E+05,0,Male,7438,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Irvine, CA",20,0,Full Stack,150000,50000,25000,Male,7229,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,191000,"New York, NY",1,0,Full Stack,128000,24000,39000,Female,10182,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,165000,"Boston, MA",2,1,Full Stack,135000,5000,25000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,145000,"Seattle, WA",2,0,API Development (Back-End),112000,8000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,223000,"Seattle, WA",6,3,API Development (Back-End),144000,79000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,232000,"Bellevue, WA",3,0,Full Stack,154000,47000,32000,Male,11470,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",4,4,Distributed Systems (Back-End),145000,95000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,219000,"Seattle, WA",3,0,API Development (Back-End),144000,75000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,238000,"Seattle, WA",4,4,Web Development (Front-End),145000,80000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,293000,"Seattle, WA",6,0,ML / AI,160000,76000,58000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,282000,"Palo Alto, CA",14,0,Data,185000,54000,43000,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,166000,"Arlington, VA",0,0,API Development (Back-End),116000,22000,27000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,340000,"Seattle, WA",6,5,Distributed Systems (Back-End),160000,180000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,255000,"Sunnyvale, CA",8,5,Distributed Systems (Back-End),157000,98000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,189000,"Seattle, WA",0,0,AWS,116000,43000,30000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,138000,"Seattle, WA",1,1,iOS,110000,18000,11000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,177000,"Seattle, WA",1,1,Full Stack,150000,18000,9000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,162000,"Seattle, WA",1,1,Web Development (Front-End),122000,30000,15000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L6,Software Engineer,502000,"Seattle, WA",10,8,API Development (Back-End),157000,345000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,262000,"Nashville, TN",4,2,Full Stack,160000,68000,34000,Male,10919,0,White,Bachelor's Degree,1,1
+Amazon,SDEI,Software Engineer,150000,"Seattle, WA",0,0,Full Stack,116000,22000,13000,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",1,0,New Grad,116000,22000,13000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,180000,"Seattle, WA",4,1,Full Stack,140000,25000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,250000,"Minneapolis, MN",4,4,Full Stack,160000,60000,31000,Male,9194,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,204000,"Seattle, WA",7,7,Full Stack,138000,66000,0,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",4,3,Distributed Systems (Back-End),160000,80000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,SDE I,Software Engineer,161000,"Sunnyvale, CA",2,2,Full Stack,127000,18000,17000,Female,7472,0,Asian,Bachelor's Degree,1,0
+Amazon,L7,Software Engineer,7.00E+05,"Seattle, WA",14,8,ML / AI,160000,540000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",3,0,API Development (Back-End),152000,48000,33000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,205000,"Seattle, WA",5,2,Full Stack,154000,50000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,154000,"Seattle, WA",1,1,Networking,115000,20000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,192000,"Seattle, WA",2,2,ML / AI,144000,48000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",8,2,Distributed Systems (Back-End),155000,50000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,232000,"Seattle, WA",2,0,Full Stack,155000,42000,35000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",0,0,Distributed Systems (Back-End),135000,21000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,180000,"Seattle, WA",1,1,iOS,144000,15000,20000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,190000,"Seattle, WA",2,2,Full Stack,144000,28000,14000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Palo Alto, CA",1,1,Web Development (Front-End),128000,24000,0,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,247000,"Seattle, WA",10,3,Distributed Systems (Back-End),157000,90000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0,Full Stack,116000,22000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",5,3,API Development (Back-End),138000,67000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,194000,"Irvine, CA",10,2,Testing (SDET),135000,38000,20000,Male,7229,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,177000,"Sunnyvale, CA",1,0,Distributed Systems (Back-End),129000,10000,38000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,186000,"Seattle, WA",7,5,Android,140000,46000,3000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,196000,"Seattle, WA",3,3,Android,144000,30000,18000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,210000,"Herndon, VA",2,0,Networking,150000,30000,27000,Male,11385,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,177000,"San Francisco, CA",0,0,New Grad,134000,25000,15000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,225000,"Seattle, WA",2,0,Full Stack,150000,48000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",14,5,Distributed Systems (Back-End),153000,66000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,296000,"Palo Alto, CA",8,0,Distributed Systems (Back-End),170000,70000,56000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,175000,"Seattle, WA",5,0,Full Stack,138000,21000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,131000,"Herndon, VA",2,2,DevOps,106000,5000,20000,Male,11385,1,Hispanic,Master's Degree,1,1
+Amazon,L4,Software Engineer,130000,"Seattle, WA",1,1,Full Stack,110000,18000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",1,0,Full Stack,116000,22000,15000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,207000,"Seattle, WA",7,4,API Development (Back-End),148000,50000,9000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,284000,"San Francisco, CA",2,0,Distributed Systems (Back-End),180000,62000,42000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,265000,"Sunnyvale, CA",3,0,API Development (Back-End),176000,50000,40000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,130000,"Seattle, WA",5,5,Security,110000,22000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,188000,"Seattle, WA",0,0,Full Stack,135000,32000,21000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,133000,"Seattle, WA",3,2,Distributed Systems (Back-End),109000,3000,21000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",2,2,Distributed Systems (Back-End),145000,55000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,2.00E+05,"Austin, TX",4,2,Distributed Systems (Back-End),125000,38000,38000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Boston, MA",0,0,Full Stack,116000,22000,13000,Female,8816,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,159000,"Seattle, WA",1,1,Full Stack,112000,25000,22000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",5,3,Distributed Systems (Back-End),142000,62000,1000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,227000,"Seattle, WA",4,3,Distributed Systems (Back-End),144000,83000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L7,Software Engineer,530000,"Seattle, WA",14,10,ML / AI,160000,370000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,205000,"Seattle, WA",5,1,iOS,160000,5000,35000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,460000,"Seattle, WA",11,10,Distributed Systems (Back-End),160000,3.00E+05,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,203000,"Seattle, WA",3,3,API Development (Back-End),144000,50000,9000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,151000,"Minneapolis, MN",2,0,Networking,112000,28000,12000,Male,9194,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,148000,"Herndon, VA",0,0,Distributed Systems (Back-End),116000,5000,27000,Male,11385,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,219000,"Chicago, IL",4,2,Web Development (Front-End),144000,60000,15000,Male,8198,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,180000,"New York, NY",0,0,Web Development (Front-End),130000,24000,26000,Male,10182,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,192000,"New York, NY",2,0,API Development (Back-End),140000,29000,23000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,230000,"San Francisco, CA",1,1,Full Stack,160000,70000,0,Female,7419,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,340000,"Palo Alto, CA",5,5,Distributed Systems (Back-End),168000,173000,0,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,155000,"Seattle, WA",4,0,Android,116000,21000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,317000,"Seattle, WA",8,2,Full Stack,152000,138000,28000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Arlington, VA",0,0,Full Stack,116000,22000,13000,Female,11342,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,176000,"San Francisco, CA",0,0,API Development (Back-End),134000,25000,17000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,153000,"Seattle, WA",0,0,Full Stack,116000,21000,15000,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,173000,"Austin, TX",0,0,Full Stack,116000,20000,37000,Female,10965,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,244000,"Seattle, WA",5,5,API Development (Back-End),153000,91000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,320000,"Irvine, CA",4,0,API Development (Back-End),160000,110000,50000,Male,7229,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0,Full Stack,116000,22000,13000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,169000,"Los Angeles, CA",2,0,Full Stack,130000,23000,16000,Male,7275,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,130000,"Boston, MA",0,0,Distributed Systems (Back-End),116000,4000,10000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,191000,"Seattle, WA",6,3,Full Stack,144000,30000,17000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,197000,"Seattle, WA",2,2,API Development (Back-End),144000,40000,13000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,2.00E+05,"Seattle, WA",2,0,ML / AI,150000,50000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,283000,"San Francisco, CA",7,0,Distributed Systems (Back-End),180000,64000,38000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Irvine, CA",4,0,API Development (Back-End),127000,25000,16000,Male,7229,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0,Full Stack,116000,22000,13000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,194000,"Seattle, WA",5,2,Web Development (Front-End),145000,37000,13000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,265000,"Austin, TX",14,0,Embedded,155000,66000,44000,Male,10965,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,178000,"New York, NY",12,2,Full Stack,138000,26000,19000,Female,10182,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,144000,"Seattle, WA",2,1,API Development (Back-End),103000,27000,14000,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,295000,"Seattle, WA",9,9,Full Stack,160000,130000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Sunnyvale, CA",10,8,Full Stack,160000,50000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,250000,"Herndon, VA",12,1,Distributed Systems (Back-End),155000,95000,0,Male,11385,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",3,3,API Development (Back-End),144000,61000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,160000,"San Francisco, CA",1,1,Full Stack,136000,25000,0,Male,7419,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,241000,"Seattle, WA",4,4,Full Stack,145000,96000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,185000,"San Francisco, CA",1,1,Full Stack,140000,45000,0,Male,7419,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,320000,"Seattle, WA",6,6,ML / AI,160000,160000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,Senior SDE,Software Engineer,315000,"Seattle, WA",10,6,Distributed Systems (Back-End),160000,155000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0,N/A,116000,22000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,173000,"San Francisco, CA",0,0,API Development (Back-End),134000,25000,15000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,210000,"New York, NY",1,0,Full Stack,162000,25000,23000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,233000,"Seattle, WA",7,0,Web Development (Front-End),155000,38000,43000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,213000,"Seattle, WA",5,5,API Development (Back-End),143000,70000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",4,0,Web Development (Front-End),130000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,186000,"Los Angeles, CA",2,0,Full Stack,125000,40000,21000,Male,7275,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",4,1,Full Stack,160000,45000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,167000,"Seattle, WA",2,2,Full Stack,103000,64000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"New York, NY",3,3,Full Stack,116000,39000,25000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Seattle, WA",4,2,Full Stack,125000,25000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Austin, TX",0,0,Distributed Systems (Back-End),116000,22000,25000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,171000,"Los Angeles, CA",3,0,Full Stack,130000,21000,20000,Male,7275,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,277000,"Seattle, WA",10,6,Full Stack,153000,125000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,161000,"New York, NY",2,2,API Development (Back-End),128000,19000,14000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,185000,"Seattle, WA",3,0,Distributed Systems (Back-End),135000,20000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,161000,"Seattle, WA",0,0,ML / AI,116000,22000,23000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,259000,"Sunnyvale, CA",6,4,Distributed Systems (Back-End),157000,102000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,325000,"Seattle, WA",7,4,Distributed Systems (Back-End),160000,147000,18000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,218000,"Seattle, WA",15,4,API Development (Back-End),148000,71000,0,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,186000,"Seattle, WA",5,1,Full Stack,128000,40000,18000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,234000,"Seattle, WA",6,0,Distributed Systems (Back-End),152000,44000,38000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Seattle, WA",0,0,Full Stack,116000,21000,15000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,273000,"Palo Alto, CA",5,0,ML / AI,180000,60000,38000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,195000,"Palo Alto, CA",2,2,Distributed Systems (Back-End),135000,35000,25000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Seattle, WA",1,0,Mobile (iOS + Android),129000,19000,13000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,188000,"Herndon, VA",13,1,Full Stack,155000,20000,13000,Male,11385,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,192000,"San Diego, CA",3,0,Full Stack,152000,40000,0,Male,7416,1,Black,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,138000,"Seattle, WA",0,0,Production,116000,22000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,201000,"Austin, TX",10,4,Distributed Systems (Back-End),134000,67000,0,Male,10965,0,Black,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,257000,"Seattle, WA",7,2,Full Stack,155000,72000,30000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,246000,"Los Angeles, CA",7,0,Full Stack,152000,54000,41000,Male,7275,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",4,4,API Development (Back-End),140000,60000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",1,1,Full Stack,125000,10000,30000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,179000,"New York, NY",0,0,Full Stack,127000,24000,28000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,171000,"Seattle, WA",1,1,API Development (Back-End),143000,17000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,445000,"New York, NY",7,0,Distributed Systems (Back-End),185000,146000,114000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Seattle, WA",0,0,New Grad SWE 2020,112000,20000,26000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,315000,"Sunnyvale, CA",4,0,Full Stack,180000,75000,60000,Female,7472,1,White,Master's Degree,1,0
+Amazon,L5,Software Engineer,160000,"Seattle, WA",6,5,Full Stack,144000,15000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,228000,"Reston, VA",20,4,Security,175000,53000,0,Male,11433,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Irvine, CA",0,0,Production,116000,22000,13000,Male,7229,1,Two Or More,Master's Degree,1,1
+Amazon,L4,Software Engineer,161000,"Seattle, WA",1,1,Full Stack,120000,6000,35000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,128000,"Seattle, WA",2,2,Full Stack,112000,16000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",5,3,Distributed Systems (Back-End),150000,90000,0,Male,11527,1,Hispanic,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Santa Barbara, CA",4,0,SDE,130000,22000,13000,Male,7433,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",3,1,Distributed Systems (Back-End),124000,30000,11000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,215000,"Tempe, AZ",5,5,Production,140000,75000,0,Male,7053,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",1,1,Distributed Systems (Back-End),140000,18000,16000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",1,1,Full Stack,112000,33000,12000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,154000,"Seattle, WA",1,0,Distributed Systems (Back-End),123000,22000,9000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,3.00E+05,"Seattle, WA",14,6,Distributed Systems (Back-End),145000,155000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,120000,"Sunnyvale, CA",0,0,Testing (SDET),120000,0,0,Male,7472,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,191000,"Seattle, WA",3,3,Distributed Systems (Back-End),144000,35000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,278000,"Palo Alto, CA",2,0,Distributed Systems (Back-End),172000,75000,28000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,154000,"Seattle, WA",1,1,Security,112000,20000,22000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,155000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,13000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,145000,"Seattle, WA",1,1,Full Stack,112000,20000,13000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Boston, MA",0,0,Full Stack,112000,26000,14000,Male,8816,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,140000,"Arlington, VA",0,0,Distributed Systems (Back-End),110000,20000,12000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,155000,"Seattle, WA",4,2,Distributed Systems (Back-End),135000,19000,1000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,238000,"Seattle, WA",5,5,Distributed Systems (Back-End),149000,90000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,468000,"Seattle, WA",15,8,Distributed Systems (Back-End),160000,308000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,138000,"Seattle, WA",0,0,DevOps,105000,19000,15000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,new grad,Software Engineer,166000,"Santa Barbara, CA",2,0,ML / AI,135000,20000,16000,Female,7433,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,142000,"Boston, MA",0,0,Full Stack,108000,20000,14000,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,152000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,238000,"Palo Alto, CA",5,4,Distributed Systems (Back-End),180000,58000,0,Female,7351,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,250000,"Seattle, WA",3,3,Distributed Systems (Back-End),160000,50000,43000,Female,11527,1,Two Or More,Master's Degree,1,0
+Amazon,L5,Software Engineer,206000,"Nashville, TN",10,1,Full Stack,150000,35000,21000,Male,10919,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,235000,"Austin, TX",10,1,Web Development (Front-End),155000,56000,24000,Male,10965,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Seattle, WA",0,0,University,116000,21000,13000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",5,1,DevOps,150000,44000,16000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,256000,"Seattle, WA",9,2,API Development (Back-End),153000,58000,45000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,195000,"Palo Alto, CA",1,0,Distributed Systems (Back-End),160000,20000,15000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,188000,"New York, NY",2,0,Full Stack,164000,16000,8000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,196000,"Boston, MA",7,2,Distributed Systems (Back-End),144000,40000,13000,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0,Distributed Systems (Back-End),116000,22000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,217000,"Seattle, WA",4,4,Distributed Systems (Back-End),144000,73000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,210000,"Seattle, WA",7,6,Distributed Systems (Back-End),165000,45000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,169000,"San Diego, CA",4,0,API Development (Back-End),130000,22000,16000,Female,7416,0,Asian,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,295000,"Seattle, WA",9,9,Full Stack,160000,135000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,23000,NA,4,2,API Development (Back-End),20000,0,3000,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",2,1,Full Stack,129000,30000,14000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",2,2,Full Stack,145000,60000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,284000,"Sunnyvale, CA",4,0,Distributed Systems (Back-End),175000,61000,48000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L3,Software Engineer,173000,"Pittsburgh, PA",9,1,Mobile (iOS + Android),168000,0,5000,Male,10648,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,460000,"Sunnyvale, CA",18,0,Android,185000,150000,125000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,171000,"Los Angeles, CA",2,0,Distributed Systems (Back-End),130000,23000,18000,Male,7275,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Seattle, WA",0,0,Full Stack,116000,22000,14000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,151000,"Seattle, WA",4,2,Android,125000,14000,13000,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,172000,"Seattle, WA",2,0,Full Stack,135000,19000,18000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,165000,"Seattle, WA",16,6,DevOps,125000,40000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,340000,"Seattle, WA",8,5,ML / AI,160000,180000,0,Male,11527,1,Two Or More,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,27000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Herndon, VA",0,0,Networking,116000,22000,13000,Male,11385,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0,Distributed Systems (Back-End),112000,20000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,231000,"San Francisco, CA",3,3,iOS,166000,52000,13000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,293000,"Seattle, WA",5,5,ML / AI,160000,133000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L6,Software Engineer,352000,"San Francisco, CA",9,4,API Development (Back-End),185000,144000,23000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Raleigh, NC",1,1,Full Stack,116000,21000,16000,Male,1317,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,188000,"Seattle, WA",6,6,Distributed Systems (Back-End),144000,44000,0,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Boston, MA",3,0,API Development (Back-End),130000,23000,20000,Male,8816,0,Asian,Bachelor's Degree,1,1
+Amazon,4,Software Engineer,140000,"Seattle, WA",3,3,ML / AI,110000,30000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,147000,"Seattle, WA",1,1,API Development (Back-End),112000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,270000,"Seattle, WA",6,2,Full Stack,160000,75000,38000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,250000,"Seattle, WA",10,6,API Development (Back-End),160000,90000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",4,4,API Development (Back-End),144000,56000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,225000,"California City, CA",5,4,Distributed Systems (Back-End),170000,45000,10000,Male,7120,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,158000,"Seattle, WA",2,0,Web Development (Front-End),125000,23000,11000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Arlington, VA",2,0,Full Stack,115000,27000,18000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,219000,"Sunnyvale, CA",5,1,Full Stack,148000,53000,19000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Redmond, WA",9,2,Aerospace,154000,50000,12000,Female,11521,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,191000,"Seattle, WA",4,2,Distributed Systems (Back-End),159000,23000,9000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,467000,"Seattle, WA",10,2,Distributed Systems (Back-End),160000,307000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Portland, OR",6,5,Distributed Systems (Back-End),148000,72000,0,Male,10522,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,228000,"Seattle, WA",10,7,Distributed Systems (Back-End),138000,90000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,292000,"Seattle, WA",6,6,Distributed Systems (Back-End),160000,132000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,3.00E+05,"New York, NY",10,8,Distributed Systems (Back-End),155000,145000,0,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,191000,"San Francisco, CA",5,0,Full Stack,142000,30000,19000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,230000,"Palo Alto, CA",6,4,Distributed Systems (Back-End),165000,60000,0,Female,7351,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,222000,"Palo Alto, CA",5,2,Distributed Systems (Back-End),170000,37000,15000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,179000,"Seattle, WA",2,1,Full Stack,130000,33000,16000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,158000,"Seattle, WA",0,0,Full Stack,125000,21000,12000,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,180000,"Boston, MA",2,0,Full Stack,140000,25000,15000,Male,8816,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,198000,"Seattle, WA",2,2,API Development (Back-End),144000,40000,14000,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,146000,"Seattle, WA",1,1,Full Stack,108000,18000,20000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,270000,"Seattle, WA",15,5,API Development (Back-End),156000,114000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,Principal SDE,Software Engineer,6.00E+05,"Seattle, WA",20,4,Distributed Systems (Back-End),150000,450000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,156000,"Arlington, VA",1,1,AWS Service,112000,32000,12000,Male,11342,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,289000,"Seattle, WA",9,0,Full Stack,155000,77000,57000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",4,0,Distributed Systems (Back-End),116000,22000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,302000,"Arlington, VA",2,0,Distributed Systems (Back-End),160000,72000,70000,Female,11342,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,295000,"Seattle, WA",5,3,Distributed Systems (Back-End),155000,120000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,151000,"Seattle, WA",0,0,Full Stack,116000,22000,13000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,199000,"Seattle, WA",7,6,Distributed Systems (Back-End),139000,60000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,190000,"Seattle, WA",7,4,API Development (Back-End),140000,30000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,230000,"Austin, TX",7,2,Distributed Systems (Back-End),160000,70000,0,Male,10965,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,156000,"Irving, TX",4,1,Full Stack,126000,30000,0,Male,11115,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,283000,"Sunnyvale, CA",6,6,Full Stack,149000,134000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,238000,"Seattle, WA",7,4,Security,148000,90000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,240000,"San Francisco, CA",3,3,Web Development (Front-End),170000,73000,0,Female,7419,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",2,2,Data,140000,60000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,231000,"Seattle, WA",4,0,API Development (Back-End),152000,45000,34000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,148000,"Seattle, WA",3,2,Distributed Systems (Back-End),110000,17000,21000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,230000,"Seattle, WA",4,0,Distributed Systems (Back-End),158000,45000,32000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,36000,NA,0,0,Distributed Systems (Back-End),18000,13000,5000,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Arlington, VA",1,0,AWS,130000,23000,15000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Herndon, VA",2,1,Distributed Systems (Back-End),130000,23000,17000,Male,11385,0,White,Bachelor's Degree,1,1
+Amazon,SDE III,Software Engineer,430000,"Seattle, WA",11,4,Distributed Systems (Back-End),160000,270000,0,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,226000,"Phoenix, AZ",5,3,API Development (Back-End),134000,92000,0,Female,7042,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,195000,"Seattle, WA",3,3,API Development (Back-End),143000,52000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,224000,"Seattle, WA",6,5,Full Stack,144000,80000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,214000,"Seattle, WA",5,5,Full Stack,144000,70000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,230000,"Seattle, WA",3,3,Full Stack,147000,83000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,136000,"Seattle, WA",3,2,Networking,108000,18000,10000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,204000,"Sunnyvale, CA",3,3,Full Stack,167000,37000,0,Female,7472,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,155000,"Denver, CO",1,1,Full Stack,118000,19000,18000,Male,7548,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Sunnyvale, CA",6,3,Site Reliability (SRE),142000,63000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,146000,"Seattle, WA",3,3,Distributed Systems (Back-End),113000,20000,13000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,204000,"Tempe, AZ",4,4,API Development (Back-End),144000,60000,0,Male,7053,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,176000,"Seattle, WA",0,0,Distributed Systems (Back-End),140000,19000,17000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,239000,"Seattle, WA",6,6,Distributed Systems (Back-End),159000,80000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,205000,"San Francisco, CA",3,0,Distributed Systems (Back-End),160000,40000,5000,Male,7419,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,240000,"Seattle, WA",16,3,Distributed Systems (Back-End),160000,80000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,288000,"Seattle, WA",5,0,Distributed Systems (Back-End),160000,73000,55000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,350000,"Palo Alto, CA",6,6,Distributed Systems (Back-End),185000,165000,0,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,354000,"Denver, CO",7,7,Distributed Systems (Back-End),160000,194000,0,Male,7548,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,284000,"Seattle, WA",8,7,Networking,160000,124000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",3,3,ML / AI,144000,76000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",5,5,Distributed Systems (Back-End),159000,46000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,256000,"Palo Alto, CA",3,3,Distributed Systems (Back-End),170000,86000,0,Male,7351,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Seattle, WA",4,4,Distributed Systems (Back-End),152000,73000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,204000,"Seattle, WA",2,2,Production,204000,0,0,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,229000,"Seattle, WA",4,4,API Development (Back-End),146000,83000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,360000,"Seattle, WA",6,6,Distributed Systems (Back-End),160000,2.00E+05,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,167000,"Austin, TX",2,0,Full Stack,126000,25000,16000,Male,10965,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0,API Development (Back-End),135000,0,19000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,215000,"Dallas, TX",5,5,API Development (Back-End),139000,76000,0,Male,11039,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,367000,"Seattle, WA",7,7,Distributed Systems (Back-End),160000,207000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,241000,"Boston, MA",4,2,Distributed Systems (Back-End),148000,93000,0,Male,8816,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,268000,"Seattle, WA",5,2,Web Development (Front-End),160000,108000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,201000,"Seattle, WA",3,3,API Development (Back-End),146000,55000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,140000,"Seattle, WA",1,1,Distributed Systems (Back-End),110000,19000,12000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,147000,"Seattle, WA",1,1,API Development (Back-End),112000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,392000,"Seattle, WA",8,8,Distributed Systems (Back-End),160000,232000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,310000,"Seattle, WA",10,6,Full Stack,152000,158000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,339000,"Seattle, WA",8,8,Full Stack,139000,201000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,209000,"Seattle, WA",4,2,API Development (Back-End),145000,64000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,3.00E+05,"Seattle, WA",10,4,Full Stack,160000,140000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"New York, NY",2,2,Distributed Systems (Back-End),166000,45000,10000,Female,10182,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,198000,"Seattle, WA",2,2,Full Stack,147000,40000,11000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,178000,"Seattle, WA",2,0,Full Stack,140000,20000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,211000,"Seattle, WA",3,3,Full Stack,147000,64000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,279000,"Seattle, WA",6,3,Distributed Systems (Back-End),152000,127000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Seattle, WA",5,5,Full Stack,140000,85000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,204000,"New York, NY",2,1,API Development (Back-End),165000,25000,14000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,437000,"Seattle, WA",15,9,Distributed Systems (Back-End),156000,281000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,196000,"Pittsburgh, PA",3,1,Full Stack,153000,35000,8000,Male,10648,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,134000,"Seattle, WA",2,2,Full Stack,108000,20000,2000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,181000,"New York, NY",4,2,Web Development (Front-End),142000,21000,18000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,207000,"Seattle, WA",8,4,Distributed Systems (Back-End),160000,47000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,243000,"Seattle, WA",4,3,Distributed Systems (Back-End),148000,95000,4000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,164000,"Seattle, WA",2,2,Full Stack,115000,40000,9000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,243000,"New York, NY",5,4,Distributed Systems (Back-End),164000,80000,0,Female,10182,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,180000,"Palo Alto, CA",1,1,API Development (Back-End),128000,28000,24000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",6,2,Distributed Systems (Back-End),150000,30000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,310000,"New York, NY",8,4,Distributed Systems (Back-End),160000,150000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,390000,"Seattle, WA",18,9,Security,120000,240000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,450000,"Seattle, WA",18,9,Security,150000,270000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,280000,"Seattle, WA",5,5,Full Stack,152000,128000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,197000,"New York, NY",6,0,Web Development (Front-End),160000,22000,15000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,280000,"Seattle, WA",5,4,API Development (Back-End),155000,127000,0,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,231000,"Austin, TX",10,0,DevOps,157000,42000,32000,Male,10965,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,171000,"Seattle, WA",8,5,Networking,136000,35000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,307000,"Seattle, WA",5,5,Distributed Systems (Back-End),160000,147000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,284000,"Seattle, WA",8,7,Full Stack,144000,144000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,505000,"Seattle, WA",20,5,Distributed Systems (Back-End),160000,345000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Sunnyvale, CA",0,0,Full Stack,134000,25000,15000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,304000,"Seattle, WA",9,7,Distributed Systems (Back-End),160000,144000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Sunnyvale, CA",6,3,Distributed Systems (Back-End),165000,55000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",8,0,Testing (SDET),150000,50000,35000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,2.00E+05,"Seattle, WA",4,4,API Development (Back-End),144000,56000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,488000,"Seattle, WA",15,8,Networking,153000,335000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,172000,"Seattle, WA",3,3,Distributed Systems (Back-End),114000,48000,10000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,220000,"Palo Alto, CA",2,1,Distributed Systems (Back-End),145000,45000,30000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,287000,"Austin, TX",8,4,Full Stack,152000,135000,0,Male,10965,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"New York, NY",4,2,Full Stack,1.00E+05,40000,10000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,227000,"Boulder, CO",3,1,Full Stack,151000,47000,29000,Male,7534,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,255000,"Seattle, WA",5,0,Distributed Systems (Back-End),160000,52000,42000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,221000,"Herndon, VA",10,1,Infrastructure,157000,35000,29000,Female,11385,0,Asian,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,297000,"Austin, TX",21,5,Full Stack,160000,137000,0,Male,10965,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",4,4,Full Stack,149000,71000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,255000,"Austin, TX",10,3,Embedded,160000,95000,0,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,351000,"Palo Alto, CA",4,0,Distributed Systems (Back-End),185000,16000,150000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,284000,"Palo Alto, CA",3,0,Distributed Systems (Back-End),168000,71000,45000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,236000,"Seattle, WA",9,1,Full Stack,146000,60000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,218000,"Portland, OR",5,5,ML / AI,145000,73000,0,Female,10522,1,Asian,Master's Degree,1,0
+Amazon,SDE II,Software Engineer,213000,"Boston, MA",3,3,Distributed Systems (Back-End),150000,64000,0,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,220000,"Seattle, WA",8,6,Distributed Systems (Back-End),156000,66000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,295000,"Seattle, WA",5,4,Security,148000,147000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,245000,"San Francisco, CA",4,2,ML / AI,171000,75000,0,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,182000,"Irvine, CA",3,0,Full Stack,127000,20000,35000,Female,7229,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,250000,"Seattle, WA",3,3,Full Stack,148000,102000,3000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Seattle, WA",4,4,Full Stack,145000,74000,6000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",3,3,Distributed Systems (Back-End),146000,54000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,172000,"Seattle, WA",4,2,Distributed Systems (Back-End),144000,15000,13000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,250000,"Seattle, WA",10,10,Distributed Systems (Back-End),158000,93000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,250000,"Sunnyvale, CA",5,5,Distributed Systems (Back-End),165000,85000,4000,Female,7472,1,Asian,Master's Degree,1,0
+Amazon,SDE I,Software Engineer,161000,"Denver, CO",2,2,Full Stack,111000,44000,5000,Male,7548,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,253000,"Portland, OR",8,2,Full Stack,151000,102000,0,Male,10522,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Portland, OR",3,3,API Development (Back-End),144000,56000,0,Male,10522,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Seattle, WA",11,6,API Development (Back-End),132000,83000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,3.00E+05,"Seattle, WA",5,5,Full Stack,160000,140000,0,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,283000,"Cupertino, CA",6,0,Distributed Systems (Back-End),175000,63000,46000,Male,7158,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,245000,"Seattle, WA",5,0,Distributed Systems (Back-End),150000,55000,40000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L3,Software Engineer,367000,"San Francisco, CA",21,6,Distributed Systems (Back-End),182000,185000,0,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,162000,"Seattle, WA",0,0,ML / AI,120000,30000,12000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",5,2,Full Stack,152000,48000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,214000,"Seattle, WA",3,3,Web Development (Front-End),128000,86000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Seattle, WA",6,4,API Development (Back-End),149000,67000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,195000,"New York, NY",3,0,Distributed Systems (Back-End),145000,30000,21000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,56000,NA,3,3,API Development (Back-End),43000,13000,0,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,315000,"Sunnyvale, CA",10,4,DevOps,177000,137000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,261000,"Seattle, WA",8,4,Full Stack,151000,110000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",1,0,API Development (Back-End),135000,21000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,294000,"Seattle, WA",7,4,Distributed Systems (Back-End),152000,120000,22000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,154000,"Seattle, WA",0,0,Full Stack,114000,30000,10000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,340000,"Seattle, WA",9,9,Full Stack,160000,175000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,308000,"Seattle, WA",10,8,Distributed Systems (Back-End),150000,158000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0,AWS,116000,22000,7000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,169000,"Arlington, VA",2,0,Full Stack,121000,25000,24000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Arlington, VA",0,0,AWS,116000,22000,13000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,155000,"Seattle, WA",3,3,Distributed Systems (Back-End),117000,35000,3000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,251000,"Los Angeles, CA",3,0,Full Stack,152000,55000,40000,Male,7275,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Seattle, WA",7,1,Production,150000,28000,38000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,SDE II,Software Engineer,220000,"Irvine, CA",8,4,Distributed Systems (Back-End),144000,76000,0,Male,7229,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,271000,"Seattle, WA",2,0,Full Stack,160000,50000,60000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,314000,"San Francisco, CA",6,4,Android,168000,147000,0,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,60000,NA,2,2,Device Software,45000,15000,0,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",3,3,ML / AI,113000,55000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,306000,"Seattle, WA",7,6,Full Stack,160000,146000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,251000,"Seattle, WA",7,2,Distributed Systems (Back-End),155000,96000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,230000,"Seattle, WA",3,3,API Development (Back-End),160000,70000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,229000,"Seattle, WA",7,5,ML / AI,146000,83000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,225000,"Seattle, WA",7,6,Full Stack,145000,80000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,283000,"Seattle, WA",7,6,Distributed Systems (Back-End),152000,131000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Austin, TX",3,0,Distributed Systems (Back-End),130000,28000,21000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,297000,"Seattle, WA",5,4,Distributed Systems (Back-End),160000,137000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,179000,"San Francisco, CA",0,0,Full Stack,145000,26000,8000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,178000,"Seattle, WA",2,0,API Development (Back-End),155000,13000,10000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,258000,"Seattle, WA",18,8,Distributed Systems (Back-End),158000,1.00E+05,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,172000,"Seattle, WA",3,0,Distributed Systems (Back-End),131000,23000,18000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,194000,"Seattle, WA",2,2,Distributed Systems (Back-End),144000,50000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",1,1,Distributed Systems (Back-End),130000,24000,17000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,132000,"Seattle, WA",2,2,Full Stack,112000,0,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,231000,"Arlington, VA",3,0,API Development (Back-End),155000,44000,32000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,228000,"Seattle, WA",7,7,Distributed Systems (Back-End),154000,74000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,203000,"Austin, TX",2,0,Full Stack,140000,3000,60000,Female,10965,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,198000,"Seattle, WA",2,2,Security,147000,45000,6000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,280000,"Seattle, WA",8,6,Distributed Systems (Back-End),160000,120000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,202000,"Irvine, CA",6,6,API Development (Back-End),142000,60000,0,Male,7229,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,296000,"Cupertino, CA",10,0,Networking,185000,60000,51000,Male,7158,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,197000,"Seattle, WA",2,0,Distributed Systems (Back-End),129000,37000,32000,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,340000,"New York, NY",2,0,Distributed Systems (Back-End),175000,75000,90000,Male,10182,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,250000,"Seattle, WA",5,3,Full Stack,147000,83000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,282000,"Santa Clara, CA",7,2,Full Stack,162000,120000,0,Male,7434,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,2.00E+05,"New York, NY",3,2,Full Stack,140000,40000,20000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,348000,"Seattle, WA",14,3,Distributed Systems (Back-End),147000,201000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,2.00E+05,"Seattle, WA",2,0,Distributed Systems (Back-End),125000,25000,50000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,2.00E+05,"Seattle, WA",2,0,Distributed Systems (Back-End),125000,25000,50000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",2,2,Distributed Systems (Back-End),116000,49000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",3,0,Full Stack,160000,30000,30000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,165000,"Irvine, CA",4,1,Full Stack,126000,25000,14000,Male,7229,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,381000,"Seattle, WA",10,4,ML / AI,160000,221000,0,Male,11527,1,Two Or More,Master's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",2,2,Distributed Systems (Back-End),120000,37000,13000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,202000,"New York, NY",3,3,Distributed Systems (Back-End),166000,36000,0,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,255000,"Seattle, WA",4,0,Full Stack,155000,60000,40000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",9,5,Distributed Systems (Back-End),146000,73000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",2,0,Distributed Systems (Back-End),130000,3000,47000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,268000,"Sunnyvale, CA",3,0,Distributed Systems (Back-End),170000,58000,40000,Male,7472,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,308000,"Seattle, WA",11,11,ML / AI,160000,148000,0,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,166000,"Seattle, WA",2,2,Distributed Systems (Back-End),120000,46000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,191000,"Sunnyvale, CA",3,0,Distributed Systems (Back-End),145000,25000,22000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,280000,"Seattle, WA",5,5,Distributed Systems (Back-End),150000,130000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L3,Software Engineer,166000,"Seattle, WA",2,2,Security,116000,36000,11000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,273000,"New York, NY",8,0,Full Stack,175000,64000,34000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,183000,"Los Angeles, CA",2,1,Full Stack,155000,13000,15000,Male,7275,0,Two Or More,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,232000,"New York, NY",4,0,Distributed Systems (Back-End),174000,58000,0,Male,10182,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,155000,"Fairfax, VA",0,0,Production,115000,25000,15000,Male,11369,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,186000,"New York, NY",2,2,Full Stack,156000,2000,28000,Female,10182,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,202000,"Seattle, WA",6,6,Distributed Systems (Back-End),154000,48000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,211000,"Seattle, WA",7,7,Full Stack,141000,70000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,212000,"Boston, MA",2,0,API Development (Back-End),152000,40000,20000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,290000,"Seattle, WA",10,6,Full Stack,160000,130000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,290000,"Seattle, WA",4,4,Distributed Systems (Back-End),153000,138000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,232000,"Seattle, WA",5,2,Full Stack,158000,76000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,196000,"Seattle, WA",2,2,Security,146000,45000,5000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,l5,Software Engineer,198000,"Seattle, WA",2,2,Production,144000,54000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,158000,"Detroit, MI",1,1,Full Stack,112000,20000,26000,Male,9052,0,Black,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,285000,"Seattle, WA",12,2,ML / AI,150000,135000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,144000,"Phoenix, AZ",2,1,API Development (Back-End),112000,20000,12000,Male,7042,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,144000,"Seattle, WA",2,2,Distributed Systems (Back-End),112000,20000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,222000,"Seattle, WA",4,4,API Development (Back-End),147000,75000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,193000,"Seattle, WA",3,0,Full Stack,125000,24000,44000,Male,11527,1,Black,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",4,1,Full Stack,130000,25000,18000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,214000,"Austin, TX",7,4,Full Stack,145000,60000,9000,Female,10965,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,204000,"Seattle, WA",7,2,Full Stack,148000,52000,7000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,229000,"Seattle, WA",3,3,iOS,146000,83000,0,Female,11527,0,Black,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,298000,"Seattle, WA",3,2,Distributed Systems (Back-End),155000,115000,28000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",5,5,Distributed Systems (Back-End),160000,52000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,228000,"Seattle, WA",6,6,API Development (Back-End),149000,80000,0,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,160000,"Seattle, WA",2,2,Full Stack,110000,33000,13000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,187000,"Seattle, WA",2,1,iOS,129000,42000,17000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,180000,"Cupertino, CA",2,2,Full Stack,128000,45000,7000,Male,7158,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,251000,"Seattle, WA",3,0,Distributed Systems (Back-End),155000,58000,38000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Seattle, WA",4,4,Full Stack,147000,60000,9000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,248000,"New York, NY",8,3,Full Stack,184000,64000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,175000,"Boston, MA",3,0,Full Stack,140000,18000,16000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,64000,NA,4,4,Testing (SDET),43000,21000,0,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,140000,"Seattle, WA",2,2,API Development (Back-End),140000,0,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,260000,"Seattle, WA",14,6,Distributed Systems (Back-End),160000,1.00E+05,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,178000,"Seattle, WA",2,1,Distributed Systems (Back-End),120000,30000,30000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,258000,"Boston, MA",6,2,API Development (Back-End),160000,69000,29000,Male,8816,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,385000,"Cupertino, CA",20,4,ML / AI,185000,2.00E+05,0,Male,7158,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,239000,"Herndon, VA",6,2,Distributed Systems (Back-End),157000,57000,25000,Male,11385,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,305000,"Seattle, WA",5,5,ML / AI,160000,145000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",1,0,API Development (Back-End),130000,25000,25000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,173000,"Seattle, WA",11,11,Distributed Systems (Back-End),138000,35000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,21000,NA,1,1,Cloud,18000,2000,5000,Male,13147,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,210000,"Palo Alto, CA",2,0,Full Stack,146000,30000,35000,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,342000,"Seattle, WA",12,7,Distributed Systems (Back-End),160000,182000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",3,3,Distributed Systems (Back-End),144000,56000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",0,0,Web Development (Front-End),116000,22000,23000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,196000,"Dallas, TX",5,5,DevOps,125000,71000,0,Male,11039,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,329000,"New York, NY",8,0,Distributed Systems (Back-End),169000,160000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,505000,"Seattle, WA",8,8,API Development (Back-End),160000,345000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",2,1,Distributed Systems (Back-End),130000,35000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Seattle, WA",7,2,Distributed Systems (Back-End),157000,65000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,195000,"San Francisco, CA",4,2,Android,144000,51000,0,Male,7419,1,Asian,Master's Degree,1,1
+Amazon,L7,Software Engineer,540000,"Seattle, WA",20,4,Distributed Systems (Back-End),152000,388000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,171000,"Arlington, VA",1,0,Production,128000,26000,18000,Male,11342,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,143000,"Seattle, WA",2,1,iOS,115000,4000,24000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,147000,"Boston, MA",2,0,Full Stack,116000,4000,27000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",2,0,Distributed Systems (Back-End),130000,23000,21000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,196000,"Cupertino, CA",6,2,Embedded,156000,30000,10000,Male,7158,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",5,5,API Development (Back-End),140000,1.00E+05,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Seattle, WA",0,0,ML / AI,116000,22000,13000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,240000,"Seattle, WA",11,1,Data,150000,75000,15000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Cambridge, MA",2,2,Full Stack,135000,23000,12000,Male,8821,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,176000,"Seattle, WA",3,0,Distributed Systems (Back-End),150000,15000,11000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,230000,"Seattle, WA",5,0,Networking,150000,47000,32000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,248000,"Palo Alto, CA",7,6,API Development (Back-End),162000,86000,0,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,175000,"Austin, TX",1,0,API Development (Back-End),130000,10000,35000,Male,10965,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",5,3,Data,145000,65000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,170000,"Seattle, WA",3,3,API Development (Back-End),146000,10000,15000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,Senior SDE,Software Engineer,325000,"Seattle, WA",7,6,Distributed Systems (Back-End),155000,170000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",6,2,Distributed Systems (Back-End),160000,60000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,177000,"Boston, MA",2,0,API Development (Back-End),150000,14000,13000,Female,8816,0,Asian,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,180000,"Sunnyvale, TX",4,2,Full Stack,134000,5000,41000,Female,38731,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,173000,"Seattle, WA",2,0,Distributed Systems (Back-End),130000,3000,40000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,238000,"New York, NY",2,0,Distributed Systems (Back-End),185000,53000,0,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",5,1,API Development (Back-End),126000,32000,15000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,192000,"San Diego, CA",10,6,Full Stack,142000,50000,0,Male,7416,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,175000,"Seattle, WA",1,0,API Development (Back-End),125000,30000,20000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Palo Alto, CA",1,1,API Development (Back-End),128000,24000,17000,Male,7351,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,360000,"Seattle, WA",10,2,Full Stack,160000,107000,94000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,176000,"Seattle, WA",3,0,ML / AI,133000,24000,19000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,164000,"Dallas, TX",5,0,Full Stack,130000,4000,30000,Female,11039,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0,Distributed Systems (Back-End),112000,20000,12000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Seattle, WA",4,1,Networking,112000,20000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",0,0,Security,132000,26000,16000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,176000,"Sunnyvale, CA",0,0,Full Stack,134000,25000,17000,Male,7472,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,280000,"Sunnyvale, CA",8,0,Distributed Systems (Back-End),170000,69000,42000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,190000,"Austin, TX",2,0,Distributed Systems (Back-End),130000,25000,35000,Male,10965,0,White,Bachelor's Degree,1,1
+Amazon,SDE III,Software Engineer,309000,"Seattle, WA",10,8,Full Stack,160000,149000,0,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,242000,"Seattle, WA",8,6,Full Stack,152000,90000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",2,1,API Development (Back-End),130000,5000,28000,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,335000,"Palo Alto, CA",9,1,Distributed Systems (Back-End),185000,1.00E+05,55000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"San Luis Obispo, CA",0,0,Security,116000,22000,25000,Male,7425,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,155000,"Denver, CO",1,1,Full Stack,114000,17000,24000,Male,7548,0,White,Bachelor's Degree,1,1
+Amazon,5,Software Engineer,217000,"Seattle, WA",5,2,Data,137000,70000,10000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,202000,"Seattle, WA",4,2,API Development (Back-End),146000,42000,14000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,218000,"Seattle, WA",0,0,ML / AI,152000,35000,28000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",4,4,Data,145000,75000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,208000,"Seattle, WA",5,2,DevOps,144000,62000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Arlington, VA",2,0,Distributed Systems (Back-End),140000,19000,14000,Male,11342,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,199000,"Seattle, WA",5,2,Distributed Systems (Back-End),147000,52000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,320000,"Seattle, WA",8,8,Distributed Systems (Back-End),160000,160000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Dallas, TX",3,0,Full Stack,152000,42000,27000,Male,11039,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,340000,"Seattle, WA",2,0,Full Stack,160000,1.00E+05,80000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,418000,"Seattle, WA",12,11,API Development (Back-End),160000,258000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,245000,"Cupertino, CA",10,8,Site Reliability (SRE),165000,80000,0,Male,7158,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",3,3,Distributed Systems (Back-End),150000,60000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L7,Software Engineer,520000,"Seattle, WA",10,8,API Development (Back-End),160000,360000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,211000,"Tempe, AZ",5,2,Full Stack,144000,67000,0,Male,7053,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,246000,"Seattle, WA",4,0,Web Development (Front-End),155000,51000,40000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,140000,"Seattle, WA",1,1,Security,112000,20000,8000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,188000,"Santa Clara, CA",0,0,API Development (Back-End),134000,25000,29000,Female,7434,0,White,Bachelor's Degree,1,0
+Amazon,SDE I,Software Engineer,165000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,27000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Sunnyvale, CA",0,0,API Development (Back-End),134000,25000,15000,Male,7472,1,Two Or More,Master's Degree,1,1
+Amazon,L5,Software Engineer,225000,"Austin, TX",12,0,Data,155000,42000,28000,Female,10965,1,White,Master's Degree,1,0
+Amazon,L5,Software Engineer,242000,"Minneapolis, MN",4,4,API Development (Back-End),160000,65000,17000,Male,9194,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",3,3,Networking,144000,40000,16000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,220000,"Seattle, WA",5,5,ML / AI,160000,60000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,206000,"Sunnyvale, CA",5,0,Distributed Systems (Back-End),160000,25000,21000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"New York, NY",0,0,Distributed Systems (Back-End),128000,24000,14000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,160000,"Seattle, WA",2,2,Full Stack,115000,45000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,265000,"Arlington, VA",14,0,Distributed Systems (Back-End),160000,40000,65000,Male,11342,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,209000,"Sunnyvale, CA",7,3,Android,167000,43000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,219000,"Palo Alto, CA",2,2,Distributed Systems (Back-End),167000,38000,15000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",2,2,Distributed Systems (Back-End),120000,60000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,260000,"Seattle, WA",6,6,API Development (Back-End),160000,1.00E+05,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,205000,"Seattle, WA",6,5,Full Stack,152000,53000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,242000,"Seattle, WA",4,0,Distributed Systems (Back-End),160000,39000,43000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",3,0,Distributed Systems (Back-End),140000,3000,37000,Male,11527,0,Black,Bachelor's Degree,1,1
+Amazon,L3,Software Engineer,162000,"Seattle, WA",0,0,Production,135000,17000,10000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,60,Software Engineer,159000,"Seattle, WA",2,0,Full Stack,125000,19000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"New York, NY",3,1,Distributed Systems (Back-End),130000,31000,18000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,3.00E+05,"Palo Alto, CA",8,3,Distributed Systems (Back-End),176000,124000,0,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,310000,"Seattle, WA",6,6,Full Stack,160000,150000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,263000,"New York, NY",4,4,Distributed Systems (Back-End),167000,96000,0,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,242000,"Seattle, WA",4,2,Full Stack,152000,55000,35000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,160000,"Seattle, WA",10,1,Production,125000,5000,30000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,218000,"Palo Alto, CA",2,2,API Development (Back-End),169000,49000,0,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,432000,"New York, NY",13,0,Distributed Systems (Back-End),185000,133000,113000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,161000,"Seattle, WA",2,0,Distributed Systems (Back-End),123000,26000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Austin, TX",0,0,Distributed Systems (Back-End),116000,22000,13000,Male,10965,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,174000,"Palo Alto, CA",1,1,API Development (Back-End),130000,31000,12000,Male,7351,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,215000,"Seattle, WA",4,4,Distributed Systems (Back-End),141000,73000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,182000,"Seattle, WA",5,1,Distributed Systems (Back-End),136000,32000,14000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,163000,"Seattle, WA",0,0,iOS,116000,22000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,287000,"Boston, MA",5,0,Distributed Systems (Back-End),160000,67000,60000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,287000,"Seattle, WA",6,2,API Development (Back-End),160000,72000,56000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,278000,"New York, NY",28,5,Distributed Systems (Back-End),175000,103000,0,Female,10182,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,205000,"Seattle, WA",3,1,Distributed Systems (Back-End),140000,40000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",2,1,Production,130000,25000,25000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,423000,"Sunnyvale, CA",14,0,Android,185000,138000,1.00E+05,Male,7472,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,194000,"New York, NY",2,0,Full Stack,128000,37000,29000,Male,10182,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,180000,"Seattle, WA",7,4,Distributed Systems (Back-End),150000,30000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,287000,"Seattle, WA",9,5,Distributed Systems (Back-End),153000,134000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,288000,"Sunnyvale, CA",6,0,API Development (Back-End),165000,73000,50000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,2.00E+05,"Seattle, WA",2,2,Distributed Systems (Back-End),147000,40000,15000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,215000,"Seattle, WA",5,5,Full Stack,151000,64000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,160000,"Seattle, WA",5,5,Full Stack,130000,15000,15000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,251000,"New York, NY",8,1,ML / AI,176000,40000,35000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,250000,"Seattle, WA",5,5,Full Stack,150000,1.00E+05,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,189000,"Seattle, WA",3,3,Full Stack,144000,45000,0,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,219000,"Seattle, WA",3,1,API Development (Back-End),152000,47000,20000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,246000,"Seattle, WA",0,0,Distributed Systems (Back-End),156000,50000,40000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,385000,"New York, NY",20,0,Full Stack,185000,115000,85000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,203000,"Seattle, WA",4,1,Full Stack,141000,40000,22000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,428000,"Arlington, VA",14,0,Distributed Systems (Back-End),160000,150000,118000,Male,11342,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,228000,"Seattle, WA",5,5,Distributed Systems (Back-End),142000,86000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,166000,"Seattle, WA",2,2,frontend,130000,15000,25000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,195000,"Seattle, WA",2,0,Distributed Systems (Back-End),145000,0,47000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Seattle, WA",4,0,Full Stack,126000,20000,20000,Female,11527,0,White,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,227000,"Seattle, WA",2,2,Distributed Systems (Back-End),155000,72000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,224000,"Seattle, WA",5,4,Full Stack,148000,77000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,245000,"Portland, OR",8,1,Full Stack,157000,88000,0,Male,10522,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Santa Barbara, CA",0,0,Distributed Systems (Back-End),116000,22000,13000,Male,7433,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,275000,"Seattle, WA",2,0,ML / AI,145000,60000,70000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,327000,"Seattle, WA",4,0,Full Stack,160000,90000,77000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",3,0,iOS,130000,20000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,154000,"Seattle, WA",0,0,Full Stack,116000,13000,26000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,245000,"Herndon, VA",10,0,Networking,150000,55000,40000,Male,11385,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,145000,"Seattle, WA",2,2,API Development (Back-End),112000,16000,17000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,145000,"Irvine, CA",2,0,Data,125000,20000,0,Male,7229,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,246000,"Seattle, WA",15,2,Full Stack,160000,75000,11000,Male,11527,1,Hispanic,Master's Degree,1,1
+Amazon,L4,Software Engineer,140000,"Bellevue, WA",1,1,Distributed Systems (Back-End),113000,3000,23000,Female,11470,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,226000,"Seattle, WA",4,2,Full Stack,144000,82000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,260000,"Seattle, WA",2,2,Full Stack,150000,95000,15000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,152000,"Seattle, WA",1,1,Full Stack,112000,20000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,296000,"Sunnyvale, CA",3,3,API Development (Back-End),176000,75000,46000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,118000,"Dallas, TX",5,0,Security,92000,16000,11000,Male,11039,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Seattle, WA",3,0,API Development (Back-End),123000,20000,20000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,290000,"Seattle, WA",5,5,DevOps,150000,140000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",3,0,Distributed Systems (Back-End),130000,18000,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,141000,"Seattle, WA",1,1,API Development (Back-End),112000,3000,26000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,297000,"Seattle, WA",7,0,Security,155000,84000,58000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,173000,"Seattle, WA",2,0,Distributed Systems (Back-End),127000,25000,21000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,256000,"Seattle, WA",4,4,Full Stack,151000,105000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,278000,"Seattle, WA",6,6,Distributed Systems (Back-End),160000,118000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L3,Software Engineer,176000,"Seattle, WA",1,1,Distributed Systems (Back-End),130000,4000,42000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,199000,"Seattle, WA",2,2,Full Stack,144000,39000,17000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L7,Software Engineer,485000,"San Francisco, CA",15,10,Other,185000,3.00E+05,0,Male,7419,1,White,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,320000,"Seattle, WA",4,4,Mobile (iOS + Android),161000,159000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,211000,"New York, NY",3,3,Full Stack,166000,45000,0,Male,10182,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,188000,"Seattle, WA",3,1,Web Development (Front-End),139000,18000,31000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,267000,"New York, NY",4,2,Full Stack,180000,87000,0,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,Senior SDE,Software Engineer,280000,"Seattle, WA",12,4,Full Stack,160000,120000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,278000,"Seattle, WA",8,4,Distributed Systems (Back-End),153000,125000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,250000,"Seattle, WA",8,6,API Development (Back-End),160000,90000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,191000,"Seattle, WA",4,2,Distributed Systems (Back-End),144000,25000,22000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,66000,NA,3,0,Distributed Systems (Back-End),42000,11000,13000,Male,13147,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,388000,"Seattle, WA",17,3,Distributed Systems (Back-End),158000,177000,53000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,320000,"Seattle, WA",9,9,Distributed Systems (Back-End),160000,160000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,181000,"Herndon, VA",2,0,API Development (Back-End),147000,3000,31000,Male,11385,1,Black,Master's Degree,1,1
+Amazon,L5,Software Engineer,267000,"Seattle, WA",8,4,Distributed Systems (Back-End),157000,110000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,216000,"Seattle, WA",6,1,Mobile (iOS + Android),150000,56000,10000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,340000,"Seattle, WA",9,6,Distributed Systems (Back-End),160000,180000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,231000,"Seattle, WA",12,9,Testing (SDET),145000,86000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,250000,"Seattle, WA",4,3,API Development (Back-End),160000,90000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,261000,"New York, NY",4,0,Production,175000,49000,37000,Male,10182,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,290000,"Seattle, WA",14,0,No focus,155000,74000,61000,Male,11527,1,White,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,150000,"Seattle, WA",3,3,Distributed Systems (Back-End),110000,40000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,360000,"Sunnyvale, CA",10,4,Networking,185000,175000,0,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,187000,"Palo Alto, CA",1,0,API Development (Back-End),134000,25000,28000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,206000,"New York, NY",3,3,Full Stack,166000,40000,0,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Herndon, VA",0,0,API Development (Back-End),116000,22000,13000,Male,11385,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",1,1,Testing (SDET),116000,22000,30000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE1,Software Engineer,148000,"Boston, MA",0,0,Full Stack,116000,5000,27000,Male,8816,1,Asian,Master's Degree,1,1
+Amazon,SDE II,Software Engineer,235000,"Seattle, WA",8,6,Distributed Systems (Back-End),145000,90000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,SDE I,Software Engineer,144000,"San Diego, CA",1,0,API Development (Back-End),116000,22000,7000,Male,7416,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,149000,"Detroit, MI",4,1,Full Stack,116000,20000,13000,Male,9052,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",3,3,API Development (Back-End),140000,70000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Seattle, WA",5,4,Distributed Systems (Back-End),106000,54000,3000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,199000,"Portland, OR",8,1,Data,150000,32000,17000,Male,10522,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,212000,"Seattle, WA",4,3,Distributed Systems (Back-End),155000,37000,20000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,139000,"Seattle, WA",1,1,Distributed Systems (Back-End),113000,4000,22000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,170000,"Sunnyvale, CA",0,0,API Development (Back-End),134000,5000,31000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Austin, TX",2,2,Software development,118000,36000,12000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,211000,"Seattle, WA",2,2,API Development (Back-End),144000,67000,0,Female,11527,0,Two Or More,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,235000,"Seattle, WA",13,1,Android,150000,81000,4000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,181000,"New York, NY",1,1,ML / AI,142000,24000,15000,Male,10182,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,137000,"Seattle, WA",1,0,API Development (Back-End),108000,18000,11000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,194000,"New York, NY",2,0,Full Stack,150000,25000,19000,Male,10182,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,275000,"San Francisco, CA",2,0,API Development (Back-End),175000,57000,43000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,163000,"New York, NY",3,1,Full Stack,135000,20000,8000,Female,10182,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,153000,"Seattle, WA",1,0,API Development (Back-End),116000,22000,15000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,181000,"Seattle, WA",2,0,Distributed Systems (Back-End),160000,13000,9000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,306000,"New York, NY",8,8,Distributed Systems (Back-End),156000,150000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,145000,"Seattle, WA",1,1,API Development (Back-End),113000,20000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Seattle, WA",0,0,API Development (Back-End),116000,21000,26000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,161000,"San Francisco, CA",5,1,Testing (SDET),120000,3000,38000,Male,7419,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,164000,"Seattle, WA",2,2,Full Stack,115000,42000,7000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,155000,"Seattle, WA",0,0,Full Stack,120000,22000,13000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,280000,"Herndon, VA",3,0,Full Stack,155000,70000,55000,Male,11385,1,White,Master's Degree,1,1
+Amazon,L6,Software Engineer,340000,"Seattle, WA",10,10,API Development (Back-End),160000,180000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",2,0,Full Stack,137000,3000,25000,Female,11527,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,254000,"Arlington, VA",5,2,Full Stack,150000,77000,28000,Female,11342,0,Asian,Bachelor's Degree,1,0
+Amazon,L4,Software Engineer,165000,"Seattle, WA",2,1,Full Stack,125000,20000,20000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,204000,"Seattle, WA",2,2,Networking,144000,60000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,325000,"Seattle, WA",9,0,API Development (Back-End),160000,65000,1.00E+05,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,375000,"Seattle, WA",15,6,Distributed Systems (Back-End),157000,123000,96000,Male,11527,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,172000,"Seattle, WA",0,0,Security,131000,23000,18000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",0,0,API Development (Back-End),116000,22000,15000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Bellevue, WA",0,0,Full Stack,116000,22000,13000,Male,11470,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,295000,"Austin, TX",11,0,API Development (Back-End),155000,78000,62000,Male,10965,1,Asian,Master's Degree,1,1
+Amazon,L6,Software Engineer,450000,"Lehi, UT",17,15,Full Stack,160000,290000,0,Male,15555,0,White,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,307000,"Cupertino, CA",6,0,ML / AI,180000,72000,55000,Male,7158,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,270000,"Seattle, WA",15,5,Distributed Systems (Back-End),159000,111000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",7,0,Web Development (Front-End),155000,38000,43000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,174000,"New York, NY",0,0,ML / AI,132000,25000,17000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,285000,"San Francisco, CA",7,1,Distributed Systems (Back-End),167000,83000,35000,Male,7419,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,277000,"Seattle, WA",2,0,Distributed Systems (Back-End),135000,49000,93000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,234000,"Palo Alto, CA",10,3,Full Stack,155000,50000,29000,Male,7351,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,168000,"Seattle, WA",1,0,Web Development (Front-End),140000,17000,11000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE I,Software Engineer,180000,"Seattle, WA",1,0,Distributed Systems (Back-End),140000,23000,17000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,265000,"New York, NY",9,0,Data,175000,55000,35000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,290000,"Seattle, WA",13,6,Full Stack,160000,130000,0,Male,11527,1,White,Master's Degree,1,1
+Amazon,L5,Software Engineer,270000,"Sunnyvale, CA",5,5,Android,180000,90000,0,Male,7472,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,334000,"Seattle, WA",13,13,Distributed Systems (Back-End),160000,174000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,265000,"Seattle, WA",3,0,Distributed Systems (Back-End),160000,56000,48000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE III,Software Engineer,415000,"Seattle, WA",11,4,Distributed Systems (Back-End),160000,255000,0,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,235000,"New York, NY",4,1,Distributed Systems (Back-End),180000,35000,20000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,273000,"Seattle, WA",15,5,Distributed Systems (Back-End),158000,115000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,237000,"Seattle, WA",8,3,API Development (Back-End),147000,90000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,163000,"Dallas, TX",3,0,Full Stack,125000,21000,17000,Male,11039,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,226000,"Seattle, WA",5,3,Full Stack,152000,74000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,202000,"Boston, MA",6,1,Distributed Systems (Back-End),144000,44000,15000,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",0,0,Distributed Systems (Back-End),116000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,243000,"Boston, MA",6,1,Distributed Systems (Back-End),155000,51000,38000,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,153000,"Seattle, WA",5,1,Full Stack,115000,38000,0,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L4,Software Engineer,195000,"New York, NY",3,0,API Development (Back-End),160000,18000,17000,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,257000,"Boston, MA",10,1,Distributed Systems (Back-End),157000,64000,37000,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,355000,"Seattle, WA",12,12,Distributed Systems (Back-End),160000,195000,0,Male,11527,0,Two Or More,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,158000,"Seattle, WA",3,0,Data,125000,19000,14000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5 SDM,Software Engineer,260000,"New York, NY",11,1,Production,180000,80000,0,Male,10182,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,181000,"Seattle, WA",1,0,Full Stack,134000,2000,45000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,SDE II,Software Engineer,171000,"Seattle, WA",2,2,Full Stack,144000,27000,0,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,214000,"Seattle, WA",8,2,Data,145000,50000,19000,Female,11527,1,Asian,Master's Degree,1,0
+Amazon,L5,Software Engineer,255000,"Seattle, WA",8,1,Distributed Systems (Back-End),155000,15000,85000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE III,Software Engineer,252000,"Seattle, WA",10,3,Distributed Systems (Back-End),147000,89000,15000,Male,11527,0,Hispanic,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,260000,"Boston, MA",4,2,Full Stack,160000,1.00E+05,0,Male,8816,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,208000,"Cambridge, MA",7,7,Distributed Systems (Back-End),144000,64000,0,Male,8821,0,Asian,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Boulder, CO",3,2,API Development (Back-End),157000,53000,0,Male,7534,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,268000,"Newark, NJ",2,2,Full Stack,165000,1.00E+05,3000,Male,1288,1,Asian,Master's Degree,1,1
+Amazon,L4,Software Engineer,180000,"Seattle, WA",4,2,Distributed Systems (Back-End),130000,30000,20000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,160000,"Seattle, WA",1,1,Full Stack,113000,35000,12000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,248000,"San Diego, CA",5,0,Security,160000,52000,36000,Female,7416,0,White,Bachelor's Degree,1,0
+Amazon,L6,Software Engineer,378000,"Seattle, WA",15,9,Full Stack,160000,207000,11000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,141000,"Seattle, WA",0,0,Web Development (Front-End),113000,28000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,212000,"Irvine, CA",4,4,Testing (SDET),132000,50000,30000,Male,7229,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,191000,"New York, NY",3,0,DevOps,142000,28000,21000,Male,10182,1,White,Master's Degree,1,1
+Amazon,L4,Software Engineer,165000,"Seattle, WA",3,1,API Development (Back-End),125000,20000,20000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0,Full Stack,120000,22000,15000,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L6,Software Engineer,289000,"Seattle, WA",11,7,Distributed Systems (Back-End),160000,129000,0,Male,11527,0,Asian,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,157000,"New York, NY",0,0,Distributed Systems (Back-End),132000,25000,0,Female,10182,0,Asian,Bachelor's Degree,1,0
+Amazon,L5,Software Engineer,219000,"Seattle, WA",5,0,Full Stack,150000,40000,29000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0,Full Stack,120000,22000,15000,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L4,Software Engineer,150000,"Seattle, WA",0,0,Distributed Systems (Back-End),116000,22000,13000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L3,Software Engineer,155000,"Seattle, WA",0,0,Full Stack,130000,0,25000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,212000,"Seattle, WA",8,2,Distributed Systems (Back-End),149000,47000,16000,Male,11527,1,Asian,Master's Degree,1,1
+Amazon,L5,Software Engineer,337000,"New York, NY",16,2,API Development (Back-End),185000,96000,56000,Male,10182,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,210000,"Seattle, WA",3,3,Full Stack,168000,42000,0,Male,11527,0,White,Bachelor's Degree,1,1
+Amazon,L5,Software Engineer,315000,"Sunnyvale, CA",3,0,Distributed Systems (Back-End),172000,78000,65000,Male,7472,1,Asian,Master's Degree,1,1
+Amazon,SDE I,Software Engineer,157000,"Seattle, WA",0,0,Full Stack,120000,22000,15000,Male,11527,1,Asian,Master's Degree,1,1
+Apple,ICT2,Software Engineer,162000,"Santa Clara, CA",0,0,ML / AI,130000,32000,0,Female,7434,0,White,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,298000,"Sunnyvale, CA",1,0,ML / AI,180000,1.00E+05,18000,Female,7472,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,181000,"Cupertino, CA",5,1,Web Development (Front-End),155000,26000,0,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,190000,"Austin, TX",5,3,Full Stack,118000,60000,12000,Male,10965,1,White,Master's Degree,0,1
+Apple,IC5,Software Engineer,247000,"Cupertino, CA",12,4,Web Development (Front-End),180000,62000,4000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,L4,Software Engineer,238000,"Austin, TX",7,0,Site Reliability (SRE),175000,45000,18000,Male,10965,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,185000,"Cupertino, CA",2,2,Distributed Systems (Back-End),132000,47000,6000,Female,7158,0,Two Or More,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,216000,"Sunnyvale, CA",4,0,API Development (Back-End),160000,40000,16000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT5,Software Engineer,5.00E+05,"Cupertino, CA",15,0,ML / AI,260000,2.00E+05,40000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,208000,"New York, NY",3,0,Distributed Systems (Back-End),155000,38000,15000,Male,10182,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,287000,"Cupertino, CA",3,1,API Development (Back-End),170000,1.00E+05,17000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,205000,"Cupertino, CA",5,2,MacOS,145000,40000,20000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,IC3,Software Engineer,245000,"Cupertino, CA",8,1,Distributed Systems (Back-End),165000,60000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,425000,"San Francisco, CA",11,0,Site Reliability (SRE),215000,175000,35000,Male,7419,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,183000,"Cupertino, CA",2,0,Embedded,130000,18000,35000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,165000,"Austin, TX",2,0,Site Reliability (SRE),105000,45000,15000,Male,10965,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,226000,"Austin, TX",22,1,Security,165000,36000,25000,Male,10965,1,Two Or More,Master's Degree,0,1
+Apple,ICT3,Software Engineer,238000,"Cupertino, CA",2,2,ML / AI,144000,80000,14000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,240000,"Austin, TX",8,0,API Development (Back-End),175000,45000,20000,Male,10965,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,192000,"Cupertino, CA",2,2,API Development (Back-End),143000,31000,18000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,370000,"Cupertino, CA",8,3,Web Development (Front-End),180000,160000,30000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,308000,"Cupertino, CA",5,0,Distributed Systems (Back-End),170000,38000,1.00E+05,Male,7158,1,Asian,Master's Degree,0,1
+Apple,LC2,Software Engineer,148000,"Cupertino, CA",0,0,Firmware,125000,23000,0,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,235000,"Cupertino, CA",5,0,Data,155000,60000,15000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,L3,Software Engineer,194000,"Cupertino, CA",2,0,ML / AI,144000,40000,10000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT4,Software Engineer,245000,"San Diego, CA",5,0,Full Stack,172000,56000,17000,Male,7416,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,184000,"Cupertino, CA",4,2,iOS,148000,30000,6000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,304000,"Cupertino, CA",4,0,Data,185000,84000,35000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,4.00E+05,"Seattle, WA",8,0,Distributed Systems (Back-End),195000,150000,55000,Male,11527,0,Hispanic,Bachelor's Degree,0,1
+Apple,ICT5,Software Engineer,538000,"Cupertino, CA",5,5,System Frameworks,208000,320000,10000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,268000,"Cupertino, CA",5,0,Data,170000,38000,60000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT5,Software Engineer,524000,"Cupertino, CA",17,8,iOS,214000,250000,60000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,369000,"Cupertino, CA",12,0,iOS,194000,150000,25000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,250000,"Austin, TX",7,0,Site Reliability (SRE),175000,45000,30000,Male,10965,0,Asian,Bachelor's Degree,0,1
+Apple,L3,Software Engineer,151000,"Cupertino, CA",10,5,Web Development (Front-End),141000,5000,5000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,180000,"Seattle, WA",0,0,ML / AI,132000,34000,14000,Male,11527,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,380000,"Sunnyvale, CA",17,5,Data,195000,150000,35000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,260000,"Cupertino, CA",4,0,ML / AI,175000,36000,48000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,293000,"New York, NY",15,0,Distributed Systems (Back-End),2.00E+05,63000,30000,Male,10182,1,White,Master's Degree,0,1
+Apple,L4,Software Engineer,325000,"Santa Clara, CA",7,5,ML / AI,2.00E+05,1.00E+05,25000,Male,7434,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,197000,"Cupertino, CA",2,2,Site Reliability (SRE),130000,65000,2000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,2.00E+05,"Sunnyvale, CA",10,2,API Development (Back-End),155000,50000,0,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,195000,"Cupertino, CA",3,2,Testing (SDET),141000,41000,12000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,181000,"Cupertino, CA",2,0,Testing (SDET),130000,26000,25000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT5,Software Engineer,512000,"Cupertino, CA",19,8,ROM,230000,250000,33000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,438000,"Cupertino, CA",19,8,iOS,230000,175000,33000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,245000,"Austin, TX",8,5,Full Stack,132000,90000,25000,Male,10965,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,403000,"Cupertino, CA",8,3,Web Development (Front-End),185000,195000,23000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,270000,"Seattle, WA",9,0,Full Stack,185000,63000,22000,Male,11527,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,186000,"Cupertino, CA",1,0,iOS,130000,26000,30000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,176000,"Cupertino, CA",1,0,Distributed Systems (Back-End),130000,41000,5000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,381000,"Cupertino, CA",9,4,Site Reliability (SRE),201000,155000,25000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,170000,"Cupertino, CA",2,2,Full Stack,135000,20000,15000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,L5,Software Engineer,345000,"San Francisco, CA",20,3,Full Stack,245000,80000,20000,Male,7419,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,304000,"Cupertino, CA",2,1,Robotics,170000,117000,17000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,169000,"Cupertino, CA",0,0,Operating Systems,125000,24000,20000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,332000,"Cupertino, CA",3,3,ML / AI,187000,120000,25000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,290000,"San Francisco, CA",5,3,ML / AI,170000,1.00E+05,20000,Male,7419,1,Asian,Master's Degree,0,1
+Apple,IC2,Software Engineer,176000,"San Francisco, CA",0,0,iOS,130000,26000,20000,Male,7419,0,White,Bachelor's Degree,0,1
+Apple,ICT6,Software Engineer,671000,"Cupertino, CA",16,8,iOS,241000,385000,45000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,276000,"San Francisco, CA",4,2,API Development (Back-End),170000,90000,18000,Male,7419,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,284000,"Cupertino, CA",2,1,Distributed Systems (Back-End),194000,70000,20000,Female,7158,0,White,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,223000,"Cupertino, CA",2,2,Internet Software & Services,150000,61000,11000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,215000,"Cupertino, CA",4,4,ML / AI,180000,20000,15000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,163000,"Cupertino, CA",2,0,Testing (SDET),130000,23000,10000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,180000,"Seattle, WA",10,1,iOS,161000,0,21000,Male,11527,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,336000,"San Francisco, CA",4,4,Distributed Systems (Back-End),181000,125000,30000,Female,7419,0,White,Bachelor's Degree,0,0
+Apple,ICT5,Software Engineer,387000,"Cupertino, CA",13,8,API Development (Back-End),204000,147000,37000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,338000,"Cupertino, CA",3,3,iOS,148000,170000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,307000,"Cupertino, CA",3,3,iOS,165000,116000,26000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,385000,"Cupertino, CA",4,4,iOS,165000,2.00E+05,20000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,263000,"Cupertino, CA",4,3,Distributed Systems (Back-End),152000,80000,31000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,306000,"Cupertino, CA",18,0,iOS,210000,75000,21000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,320000,"San Francisco, CA",3,3,Geospatial,146000,154000,20000,Male,7419,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,325000,"Cupertino, CA",10,2,Data,185000,120000,25000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,250000,"Cupertino, CA",4,4,iOS,146000,85000,19000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,265000,"Cupertino, CA",1,1,ML / AI,155000,93000,18000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,176000,"Sunnyvale, CA",2,2,Testing (SDET),124000,41000,12000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,158000,"Cupertino, CA",2,2,API Development (Back-End),130000,20000,8000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,290000,"Cupertino, CA",4,0,ML / AI,165000,105000,20000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,190000,"Cupertino, CA",5,4,UI (macOS),145000,20000,20000,Female,7158,0,Hispanic,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,438000,"Cupertino, CA",15,7,iOS,198000,2.00E+05,40000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,374000,"Cupertino, CA",9,7,iOS,190000,150000,34000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,310000,"Cupertino, CA",10,3,iOS,177000,113000,20000,Female,7158,0,White,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,354000,"Pittsburgh, PA",8,4,Full Stack,186000,148000,20000,Male,10648,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,319000,"Cupertino, CA",8,8,Security,177000,115000,25000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,158000,"Cupertino, CA",5,5,Site Reliability (SRE),129000,16000,13000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT4,Software Engineer,263000,"Cupertino, CA",10,2,ML / AI,178000,70000,15000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,359000,"Cupertino, CA",6,3,iOS,181000,150000,28000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,205000,"Cupertino, CA",3,1,SPG,149000,40000,16000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,246000,"Sunnyvale, CA",12,1,Data,180000,50000,16000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,150000,"Cupertino, CA",12,3,Testing (SDET),133000,3000,10000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,L3,Software Engineer,220000,"Sunnyvale, CA",8,0,iOS,175000,25000,20000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,L5,Software Engineer,410000,"Sunnyvale, CA",17,6,Distributed Systems (Back-End),195000,180000,35000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,219000,"San Francisco, CA",6,6,Site Reliability (SRE),169000,30000,20000,Female,7419,1,Asian,Master's Degree,0,0
+Apple,ICT4,Software Engineer,330000,"Cupertino, CA",6,6,Data,175000,130000,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,144000,"Boulder, CO",0,0,AR/VR,120000,24000,0,Male,7534,0,White,Bachelor's Degree,0,1
+Apple,ICT5,Software Engineer,5.00E+05,"Cupertino, CA",12,3,ML / AI,210000,250000,40000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,3.00E+05,"Cupertino, CA",7,2,Full Stack,190000,90000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,310000,"Cupertino, CA",8,3,iOS,175000,120000,15000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,194000,"Cupertino, CA",5,2,iOS,152000,25000,17000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,302000,"Cupertino, CA",9,5,Testing (SDET),186000,95000,21000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,2.00E+05,"Cupertino, CA",4,1,Testing (SDET),130000,60000,10000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,425000,"Cupertino, CA",5,1,Full Stack,2.00E+05,2.00E+05,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,170000,"Cupertino, CA",1,0,Production,135000,27000,8000,Female,7158,0,Two Or More,Bachelor's Degree,0,0
+Apple,l4,Software Engineer,290000,"Sunnyvale, CA",10,10,iOS,180000,90000,20000,Male,7472,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,290000,"Cupertino, CA",8,0,DevOps,195000,75000,20000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,182000,"Cupertino, CA",5,1,Analytics,132000,20000,30000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,172000,"Cupertino, CA",1,0,iOS,130000,27000,15000,Female,7158,0,Hispanic,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,248000,"Cupertino, CA",12,12,Full Stack,168000,70000,10000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,3.00E+05,"Cupertino, CA",9,5,Embedded Software,190000,80000,30000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,333000,"Cupertino, CA",10,4,Firmware,188000,115000,30000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,275000,"Cupertino, CA",5,5,ML / AI,175000,80000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,197000,"Cupertino, CA",1,1,Compilers,144000,43000,10000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,321000,"Seattle, WA",15,0,API Development (Back-End),195000,56000,70000,Male,11527,0,Hispanic,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,156000,"Cupertino, CA",2,0,Testing (SDET),120000,26000,10000,Female,7158,0,White,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,233000,"San Francisco, CA",2,0,ML / AI,175000,40000,18000,Male,7419,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,208000,"Cupertino, CA",2,0,Mobile (iOS + Android),140000,30000,35000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,198000,"Cupertino, CA",6,6,Web Development (Front-End),121000,65000,12000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,L4,Software Engineer,375000,"Santa Clara, CA",7,0,Distributed Systems (Back-End),2.00E+05,155000,20000,Male,7434,1,White,Master's Degree,0,1
+Apple,L4,Software Engineer,252000,"Cupertino, CA",9,5,Testing (SDET),167000,70000,15000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,275000,"Cupertino, CA",0,0,Distributed Systems (Back-End),165000,80000,30000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT4,Software Engineer,372000,"San Francisco, CA",5,2,Distributed Systems (Back-End),192000,150000,30000,Male,7419,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,280000,"Cupertino, CA",3,3,ML / AI,150000,110000,20000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,488000,"Cupertino, CA",10,5,ML / AI,2.00E+05,268000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,L2,Software Engineer,210000,"Austin, TX",0,0,Security,120000,70000,20000,Male,10965,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,308000,"Santa Clara, CA",5,2,Security,170000,108000,30000,Male,7434,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,315000,"Cupertino, CA",8,4,Distributed Systems (Back-End),177000,113000,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,375000,"Santa Clara, CA",8,0,Distributed Systems (Back-End),2.00E+05,125000,50000,Male,7434,1,White,Master's Degree,0,1
+Apple,IC2,Software Engineer,171000,"Cupertino, CA",1,0,Full Stack,135000,21000,15000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,344000,"Cupertino, CA",4,1,ML / AI,195000,125000,24000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,271000,"Cupertino, CA",6,0,Web Development (Front-End),173000,38000,60000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,220000,"San Jose, CA",6,0,Robotics,170000,38000,13000,Male,7422,1,White,Master's Degree,0,1
+Apple,ICT2,Software Engineer,181000,"Cupertino, CA",2,0,ML / AI,130000,26000,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,402000,"Cupertino, CA",15,5,iOS,222000,160000,20000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,Software Integrity Eng 4,Software Engineer,315000,"San Jose, CA",13,6,iOS,165000,138000,12000,Female,7422,0,Asian,Bachelor's Degree,0,0
+Apple,ICT2,Software Engineer,199000,"Seattle, WA",2,0,ML / AI,132000,37000,30000,Female,11527,0,White,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,279000,"San Francisco, CA",7,0,Site Reliability (SRE),185000,75000,19000,Male,7419,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,214000,"Cupertino, CA",3,2,Testing (SDET),123000,80000,11000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,133000,"Cupertino, CA",0,0,Full Stack,120000,13000,0,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,225000,"Cupertino, CA",5,3,Distributed Systems (Back-End),150000,65000,10000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,280000,"Sunnyvale, CA",5,2,iOS,172000,98000,10000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,ICT5,Software Engineer,605000,"New York, NY",15,0,iOS,222000,3.00E+05,80000,Male,10182,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,375000,"Cupertino, CA",8,3,Web Development (Front-End),180000,160000,35000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,159000,"Cupertino, CA",1,1,iOS,119000,40000,0,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,Intern,Software Engineer,120000,"New York, NY",0,0,Testing (SDET),120000,0,0,Male,10182,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,355000,"Cupertino, CA",10,2,API Development (Back-End),180000,160000,15000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,240000,"Santa Clara, CA",12,8,Data,160000,60000,20000,Male,7434,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,450000,"Cupertino, CA",9,0,ML / AI,205000,220000,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,Senior Software Engineer,Software Engineer,209000,"Cupertino, CA",8,8,iOS,129000,60000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,3.00E+05,"Sunnyvale, CA",16,8,Web Development (Front-End),183000,1.00E+05,20000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,225000,"Cupertino, CA",8,8,iOS,155000,60000,10000,Female,7158,0,White,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,358000,"Cupertino, CA",4,1,ML / AI,2.00E+05,108000,50000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,L3,Software Engineer,249000,"Cupertino, CA",8,4,Site Reliability (SRE),137000,97000,15000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,L3,Software Engineer,225000,"Cupertino, CA",4,2,Data,168000,40000,15000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,2.00E+05,"Cupertino, CA",1,1,iOS,145000,20000,35000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,2.00E+05,"Cupertino, CA",5,0,Networking,140000,30000,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,575000,"Cupertino, CA",20,5,Distributed Systems (Back-End),2.00E+05,340000,35000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,178000,"Cupertino, CA",3,2,Full Stack,138000,30000,10000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,360000,"Cupertino, CA",15,5,firmware,185000,145000,25000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,332000,"Austin, TX",9,6,Full Stack,157000,160000,15000,Male,10965,1,White,Master's Degree,0,1
+Apple,L4,Software Engineer,170000,"Austin, TX",7,2,API Development (Back-End),150000,10000,10000,Male,10965,1,Two Or More,Master's Degree,0,1
+Apple,ICT4,Software Engineer,331000,"Sunnyvale, CA",16,4,Data,181000,128000,23000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,350000,"Seattle, WA",10,1,ML / AI,175000,125000,50000,Male,11527,0,Hispanic,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,270000,"Cupertino, CA",4,4,iOS,155000,1.00E+05,15000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,347000,"San Diego, CA",8,3,DevOps,151000,171000,25000,Female,7416,0,White,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,230000,"Cupertino, CA",9,2,Distributed Systems (Back-End),169000,45000,12000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT6,Software Engineer,6.00E+05,"Sunnyvale, CA",30,8,Distributed Systems (Back-End),244000,3.00E+05,60000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,270000,"San Jose, CA",6,3,Full Stack,150000,1.00E+05,20000,Male,7422,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,167000,"Cupertino, CA",6,1,Testing (SDET),133000,25000,9000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,254000,"Cupertino, CA",5,2,iOS,170000,60000,24000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,317000,"Cupertino, CA",10,2,ML / AI,207000,90000,20000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT2,Software Engineer,171000,"Cupertino, CA",1,1,Embedded,130000,21000,20000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,310000,"Sunnyvale, CA",4,4,ML / AI,158000,130000,20000,Male,7472,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,4.00E+05,"Cupertino, CA",10,2,ML / AI,230000,120000,50000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT4,Software Engineer,388000,"Cupertino, CA",5,5,CoreOS,178000,195000,15000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,212000,"Cupertino, CA",1,0,Full Stack,150000,50000,12000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,410000,"Seattle, WA",8,1,Full Stack,2.00E+05,150000,60000,Male,11527,0,Hispanic,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,210000,"Sunnyvale, CA",2,1,Distributed Systems (Back-End),155000,50000,5000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,405000,"Seattle, WA",20,1,Distributed Systems (Back-End),220000,150000,35000,Male,11527,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,330000,"Cupertino, CA",11,5,Firmware,188000,115000,30000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,481000,"San Diego, CA",22,6,Data,201000,250000,30000,Male,7416,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,270000,"Cupertino, CA",6,3,Web Development (Front-End),155000,90000,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,295000,"Cupertino, CA",5,5,API Development (Back-End),180000,95000,20000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT4,Software Engineer,383000,"Cupertino, CA",13,4,Full Stack,203000,140000,40000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,290000,"Cupertino, CA",4,0,API Development (Back-End),175000,75000,40000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,L3,Software Engineer,199000,"Cupertino, CA",7,2,Full Stack,164000,25000,10000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,222000,"San Diego, CA",4,0,Full Stack,145000,37000,40000,Female,7416,1,Asian,Master's Degree,0,0
+Apple,ICT2,Software Engineer,194000,"Cupertino, CA",1,0,DevOps,148000,30000,16000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,268000,"New York, NY",5,0,API Development (Back-End),175000,75000,18000,Female,10182,1,Asian,Master's Degree,0,0
+Apple,ICT5,Software Engineer,360000,"Sunnyvale, CA",16,3,Production,2.00E+05,135000,30000,Male,7472,0,Asian,Bachelor's Degree,0,1
+Apple,L2,Software Engineer,151000,"Cupertino, CA",1,1,iOS,125000,26000,0,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,410000,"Seattle, WA",10,0,Distributed Systems (Back-End),205000,180000,25000,Male,11527,1,Hispanic,Master's Degree,0,1
+Apple,ICT3,Software Engineer,240000,"San Diego, CA",6,0,ML / AI,158000,60000,20000,Male,7416,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,3.00E+05,"Cupertino, CA",3,3,ML / AI,180000,1.00E+05,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,345000,"Cupertino, CA",16,3,Testing (SDET),182000,138000,25000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,214000,"Cupertino, CA",2,2,Distributed Systems (Back-End),141000,65000,8000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,207000,"Cupertino, CA",2,2,ML / AI,147000,60000,0,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,220000,"Seattle, WA",2,0,ML / AI,155000,50000,16000,Male,11527,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,225000,"Cupertino, CA",3,0,Embedded,145000,42000,35000,Male,7158,0,Hispanic,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,2.00E+05,"Austin, TX",5,0,Testing (SDET),150000,36000,14000,Male,10965,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,5.00E+05,"Sunnyvale, CA",20,5,Networking,210000,240000,50000,Male,7472,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,398000,"Cupertino, CA",9,0,Distributed Systems (Back-End),205000,125000,68000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,192000,"Cupertino, CA",4,3,API Development (Back-End),147000,40000,5000,Male,7158,1,White,Master's Degree,0,1
+Apple,ICT3,Software Engineer,2.00E+05,"San Diego, CA",3,1,Mobile (iOS + Android),130000,50000,20000,Male,7416,1,Asian,Master's Degree,0,1
+Apple,ICT5,Software Engineer,492000,"Sunnyvale, CA",21,2,SPG,237000,210000,45000,Male,7472,1,Two Or More,Master's Degree,0,1
+Apple,L4,Software Engineer,320000,"Cupertino, CA",10,2,API Development (Back-End),195000,1.00E+05,20000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT3,Software Engineer,2.00E+05,"Cupertino, CA",11,0,Full Stack,160000,40000,0,Male,7158,1,Asian,Master's Degree,0,1
+Apple,Software Engineer,Software Engineer,191000,"Cupertino, CA",3,0,iOS,148000,35000,8000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,218000,"Cupertino, CA",4,3,Testing (SDET),146000,60000,13000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,264000,"Cupertino, CA",3,0,Distributed Systems (Back-End),160000,88000,16000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,245000,"Seattle, WA",4,0,Site Reliability (SRE),155000,75000,16000,Male,11527,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,2.00E+05,"Cupertino, CA",7,1,Mobile (iOS + Android),160000,27000,13000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,226000,"Cupertino, CA",3,0,ML / AI,160000,50000,16000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,147000,"Austin, TX",0,0,API Development (Back-End),113000,19000,15000,Male,10965,0,Asian,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,302000,"Santa Clara, CA",10,1,Mobile (iOS + Android),195000,63000,45000,Male,7434,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,123000,"Austin, TX",1,1,Distributed Systems (Back-End),113000,10000,0,Male,10965,0,Hispanic,Bachelor's Degree,0,1
+Apple,ECDP,Software Engineer,147000,"Austin, TX",0,0,ML / AI,113000,19000,15000,Male,10965,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,175000,"Austin, TX",4,0,Data,135000,30000,10000,Male,10965,1,Asian,Master's Degree,0,1
+Apple,L3,Software Engineer,150000,"Sunnyvale, CA",4,2,Web Development (Front-End),135000,15000,0,Female,7472,0,White,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,298000,"Boulder, CO",6,0,API Development (Back-End),180000,1.00E+05,18000,Male,7534,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,189000,"Austin, TX",6,0,Testing (SDET),137000,37000,15000,Male,10965,0,Two Or More,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,474000,"Cupertino, CA",10,2,Distributed Systems (Back-End),208000,236000,30000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,294000,"Cupertino, CA",4,3,DevOps,174000,1.00E+05,20000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT3,Software Engineer,194000,"Cupertino, CA",4,2,Mobile (iOS + Android),140000,42000,12000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,ICT5,Software Engineer,410000,"Cupertino, CA",10,7,Distributed Systems (Back-End),225000,160000,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,160000,"San Francisco, CA",5,1,Full Stack,135000,25000,0,Male,7419,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,348000,"Cupertino, CA",12,5,Full Stack,188000,140000,20000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,185000,"San Francisco, CA",1,1,Data,135000,40000,10000,Female,7419,0,White,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,304000,"New York, NY",15,1,Distributed Systems (Back-End),204000,50000,50000,Male,10182,1,White,Master's Degree,0,1
+Apple,ICT2,Software Engineer,268000,"Cupertino, CA",0,0,ML / AI,158000,55000,55000,Female,7158,1,Asian,Master's Degree,0,0
+Apple,ICT4,Software Engineer,343000,"San Diego, CA",26,1,Accessory,2.00E+05,113000,30000,Male,7416,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,355000,"Cupertino, CA",15,2,iOS,230000,1.00E+05,25000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,288000,"Cupertino, CA",8,0,Maps,188000,75000,25000,Male,7158,0,Hispanic,Bachelor's Degree,0,1
+Apple,L3,Software Engineer,220000,"Cupertino, CA",3,3,Distributed Systems (Back-End),140000,66000,14000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,330000,"Seattle, WA",7,0,Distributed Systems (Back-End),2.00E+05,110000,20000,Male,11527,0,Hispanic,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,375000,"San Francisco, CA",7,1,API Development (Back-End),205000,1.00E+05,70000,Other,7419,0,Two Or More,Bachelor's Degree,0,0
+Apple,ICT3,Software Engineer,215000,"Cupertino, CA",6,2,iOS,143000,72000,0,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,239000,"Seattle, WA",0,0,ML / AI,140000,85000,14000,Male,11527,1,Two Or More,Master's Degree,0,1
+Apple,ICT3,Software Engineer,198000,"Austin, TX",3,0,Data,145000,38000,15000,Male,10965,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,286000,"Austin, TX",7,0,Distributed Systems (Back-End),190000,68000,28000,Male,10965,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,220000,"Cupertino, CA",2,2,ML / AI,140000,80000,0,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,295000,"Cupertino, CA",7,0,Full Stack,2.00E+05,75000,20000,Female,7158,0,Two Or More,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,465000,"Cupertino, CA",12,2,Testing (SDET),196000,244000,25000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,258000,"Cupertino, CA",6,3,Firmware,143000,105000,10000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,233000,"Cupertino, CA",20,11,iOS,161000,60000,12000,Female,7158,0,Two Or More,Bachelor's Degree,0,0
+Apple,ICT2,Software Engineer,131000,"Sunnyvale, CA",0,0,ML / AI,115000,13000,3000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,189000,"Cupertino, CA",20,3,iOS,138000,42000,9000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT2,Software Engineer,173000,"San Jose, CA",1,1,HW,130000,38000,5000,Male,7422,1,Asian,Master's Degree,0,1
+Apple,ICT2,Software Engineer,133000,"Cupertino, CA",0,0,Automation,115000,13000,5000,Female,7158,0,Asian,Bachelor's Degree,0,0
+Apple,ICT4,Software Engineer,304000,"Sunnyvale, CA",15,2,DevOps,192000,98000,14000,Male,7472,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,245000,"Cupertino, CA",8,3,iOS,145000,95000,5000,Male,7158,0,Asian,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,288000,"Cupertino, CA",10,3,iOS,153000,125000,10000,Male,7158,0,Black,Bachelor's Degree,0,1
+Apple,ICT4,Software Engineer,282000,"Cupertino, CA",35,9,iOS,212000,40000,30000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,155000,"San Diego, CA",6,1,DevOps,135000,20000,0,Male,7416,0,White,Bachelor's Degree,0,1
+Apple,L3,Software Engineer,2.00E+05,"Cupertino, CA",7,7,iOS,130000,60000,10000,Male,7158,0,White,Bachelor's Degree,0,1
+Apple,ICT3,Software Engineer,261000,"Cupertino, CA",3,0,ML / AI,175000,69000,18000,Male,7158,1,Asian,Master's Degree,0,1
+Apple,ICT4,Software Engineer,365000,"Cupertino, CA",20,9,iOS,220000,120000,25000,Male,7158,0,White,Bachelor's Degree,0,1
