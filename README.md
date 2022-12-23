@@ -1,1 +1,1 @@
-# Impact-of-masters-degree-in-tech-and-non-tech-companies-
+Effect of education on yearly compensation- Evidence from the Apple and Amazon 
